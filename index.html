@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/circlePack.css">
     <link rel="stylesheet" href="css/treemap.css">
+    <link rel="stylesheet" href="css/dark-theme.css" id="dark-theme" disabled>
 </head>
 <body>
     <div class="header">
@@ -16,6 +17,7 @@
         </div>
         <button id="toggle-labels" class="toggle-button">Hide Labels</button>
         <button id="toggle-visualization" class="toggle-button">Switch to Treemap</button>
+        <button id="toggle-theme" class="toggle-button">Dark Mode</button>
     </div>
     <div class="main-container">
         <div id="directory-sidebar">
@@ -56,5 +58,25 @@
     <script src="js/visualizations/circlePack.js"></script>
     <script src="js/visualizations/treemap.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('toggle-theme');
+        const darkTheme = document.getElementById('dark-theme');
+        
+        // Set initial theme to light (dark theme disabled)
+        localStorage.setItem('theme', 'light');
+        
+        themeToggle.addEventListener('click', () => {
+            if (darkTheme.disabled) {
+                darkTheme.disabled = false;
+                themeToggle.textContent = 'Light Mode';
+                localStorage.setItem('theme', 'dark');
+            } else {
+                darkTheme.disabled = true;
+                themeToggle.textContent = 'Dark Mode';
+                localStorage.setItem('theme', 'light');
+            }
+        });
+    </script>
 </body>
 </html> 

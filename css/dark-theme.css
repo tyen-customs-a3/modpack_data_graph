@@ -1,0 +1,109 @@
+:root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f0f0f0;
+    --text-primary: #333333;
+    --text-secondary: #666666;
+    --border-color: #dddddd;
+    --hover-bg: #e0e0e0;
+    --active-bg: #d0d0d0;
+    --header-bg: #f5f5f5;
+    --panel-bg: #f8f8f8;
+    --legend-bg: rgba(255, 255, 255, 0.9);
+    --kbd-bg: #f5f5f5;
+    --kbd-border: #dddddd;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+.header {
+    background-color: var(--header-bg);
+    border-bottom-color: var(--border-color);
+}
+
+.panel {
+    background-color: var(--panel-bg);
+    border-color: var(--border-color);
+}
+
+.panel h3 {
+    color: var(--text-primary);
+    border-bottom-color: var(--border-color);
+}
+
+#directory-sidebar, #sidepanel {
+    background-color: var(--panel-bg);
+    border-color: var(--border-color);
+}
+
+.directory-item, .file-item {
+    border-bottom-color: var(--border-color);
+}
+
+.directory-item .size, .file-item .size {
+    color: var(--text-secondary);
+}
+
+#hover-info .path {
+    color: var(--text-secondary);
+}
+
+#hover-info .size {
+    color: var(--text-primary);
+}
+
+.control-button {
+    background-color: var(--bg-secondary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+.control-button:hover {
+    background-color: var(--hover-bg);
+}
+
+.control-button:active {
+    background-color: var(--active-bg);
+}
+
+.toggle-button {
+    background-color: var(--bg-secondary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+.toggle-button:hover {
+    background-color: var(--hover-bg);
+}
+
+#legend {
+    background-color: var(--legend-bg);
+}
+
+.legend kbd {
+    background-color: var(--kbd-bg);
+    border-color: var(--kbd-border);
+    color: var(--text-primary);
+}
+
+.resize-handle {
+    background-color: var(--border-color);
+}
+
+.resize-handle:hover {
+    background-color: var(--hover-bg);
+}
+
+.resize-handle:active {
+    background-color: var(--active-bg);
+}
+
+.resize-handle.left {
+    border-right-color: var(--border-color);
+}
+
+.resize-handle.right {
+    border-left-color: var(--border-color);
+} 

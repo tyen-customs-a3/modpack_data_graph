@@ -30,6 +30,8 @@ class CirclePackVisualization extends VisualizationManager {
             .attr("class", "circle")
             .attr("r", d => d.r)
             .attr("fill", d => this.color(d.depth))
+            .attr("stroke", this.textColor)
+            .attr("stroke-width", 0.5)
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (event.ctrlKey && d.children && d.depth === 1) {
@@ -63,6 +65,8 @@ class CirclePackVisualization extends VisualizationManager {
         nodeSelection.append("text")
             .attr("class", "circle-label")
             .attr("dy", "0.3em")
+            .style("fill", this.textColor)
+            .style("font-weight", "bold")
             .append("tspan")
             .text(d => d.data.name)
             .attr("x", 0);
@@ -71,6 +75,15 @@ class CirclePackVisualization extends VisualizationManager {
             .append("tspan")
             .text(d => this.dataManager.formatSize(d.value))
             .attr("x", 0)
-            .attr("dy", "1.2em");
+            .attr("dy", "1.2em")
+            .style("font-size", "0.9em")
+            .style("fill", this.textColor);
+
+        // Show background only when hovering
+        nodeSelection.on("mouseover", function() {
+            d3.select(this).select(".label-bg").style("display", "block");
+        }).on("mouseout", function() {
+            d3.select(this).select(".label-bg").style("display", "none");
+        });
     }
 } 

@@ -4,7 +4,49 @@ class VisualizationManager {
         this.dataManager = dataManager;
         this.svg = d3.select(this.container)
             .append("svg");
-        this.color = d3.scaleSequential([8, 0], d3.interpolateMagma);
+        this.updateColorScheme();
+        
+        // Listen for theme changes using a MutationObserver
+        const themeObserver = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                if (mutation.type === 'attributes' && mutation.attributeName === 'disabled') {
+                    this.updateColorScheme();
+                    this.update();
+                }
+            });
+        });
+
+        // Observe the dark theme stylesheet for changes
+        const darkTheme = document.getElementById('dark-theme');
+        themeObserver.observe(darkTheme, { attributes: true });
+    }
+
+    updateColorScheme() {
+        const isDarkMode = !document.getElementById('dark-theme').disabled;
+        if (isDarkMode) {
+            // Light mode color scheme (when dark theme is enabled)
+            this.color = d3.scaleSequential([8, 0], d3.interpolateMagma);
+            this.textColor = "#333333";
+            this.emptyMessageColor = "#666666";
+        } else {
+            // Dark mode color scheme (when dark theme is disabled)
+            this.color = d3.scaleSequential()
+                .domain([8, 0])
+                .interpolator(d3.interpolateRgbBasis([
+                    "#1a0f2e", // Deepest purple
+                    "#241a3a", // Very dark purple
+                    "#2e2546", // Dark purple
+                    "#383052", // Medium-dark purple
+                    "#423b5e", // Medium purple
+                    "#4c456a", // Medium-light purple
+                    "#564f76", // Light purple
+                    "#605982", // Very light purple
+                    "#6a638e", // Lightest purple
+                    "#746d9a"  // Almost white purple
+                ]));
+            this.textColor = "#ffffff";
+            this.emptyMessageColor = "#a0a0a0";
+        }
     }
 
     // Get container dimensions
@@ -80,6 +122,7 @@ class VisualizationManager {
             .attr("class", "empty-message")
             .attr("text-anchor", "middle")
             .attr("dy", "0.3em")
+            .style("fill", this.emptyMessageColor)
             .text("No directories visible");
     }
 

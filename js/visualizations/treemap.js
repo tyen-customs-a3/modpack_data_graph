@@ -46,6 +46,8 @@ class TreemapVisualization extends VisualizationManager {
             .attr("fill", d => this.color(d.height))
             .attr("width", d => Math.max(0, d.x1 - d.x0))
             .attr("height", d => Math.max(0, d.y1 - d.y0))
+            .attr("stroke", this.textColor)
+            .attr("stroke-width", 0.5)
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (event.ctrlKey && d.children && d.depth === 1) {
@@ -76,10 +78,22 @@ class TreemapVisualization extends VisualizationManager {
     addLabels(nodes) {
         const nodeSelection = d3.selectAll("g.node");
         
+        // Add a background for better text readability
+        nodeSelection.append("rect")
+            .attr("class", "label-bg")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", d => Math.max(0, d.x1 - d.x0))
+            .attr("height", 30)
+            .attr("fill", "rgba(0, 0, 0, 0.5)")
+            .style("display", "none");
+
         nodeSelection.append("text")
             .attr("class", "treemap-label")
             .attr("x", 3)
             .attr("y", 13)
+            .style("fill", this.textColor)
+            .style("font-weight", "bold")
             .append("tspan")
             .text(d => d.data.name);
 
@@ -87,6 +101,15 @@ class TreemapVisualization extends VisualizationManager {
             .append("tspan")
             .text(d => this.dataManager.formatSize(d.value))
             .attr("x", 3)
-            .attr("dy", "1.2em");
+            .attr("dy", "1.2em")
+            .style("font-size", "0.9em")
+            .style("fill", this.textColor);
+
+        // Show background only when hovering
+        nodeSelection.on("mouseover", function() {
+            d3.select(this).select(".label-bg").style("display", "block");
+        }).on("mouseout", function() {
+            d3.select(this).select(".label-bg").style("display", "none");
+        });
     }
 } 

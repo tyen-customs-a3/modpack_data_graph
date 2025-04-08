@@ -1,4 +1,19 @@
 /* Base styles for the application */
+:root {
+    --bg-primary: #121212;
+    --bg-secondary: #1e1e1e;
+    --text-primary: #ffffff;
+    --text-secondary: #a0a0a0;
+    --border-color: #2a2a2a;
+    --hover-bg: #2a2a2a;
+    --active-bg: #3a3a3a;
+    --header-bg: #1e1e1e;
+    --panel-bg: #1e1e1e;
+    --legend-bg: rgba(30, 30, 30, 0.95);
+    --kbd-bg: #2a2a2a;
+    --kbd-border: #3a3a3a;
+}
+
 body {
     font-family: Arial, sans-serif;
     font-size: 12px;
@@ -7,15 +22,17 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
 }
 
 .header {
-    background-color: #f5f5f5;
+    background-color: var(--header-bg);
     padding: 8px 15px;
     display: flex;
     align-items: center;
     gap: 15px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .slider-container {
@@ -35,63 +52,65 @@ body {
 
 .resize-handle {
     width: 8px;
-    background-color: #ddd;
+    background-color: var(--border-color);
     cursor: col-resize;
     position: relative;
     z-index: 10;
 }
 
 .resize-handle:hover {
-    background-color: #ccc;
+    background-color: var(--hover-bg);
 }
 
 .resize-handle:active {
-    background-color: #bbb;
+    background-color: var(--active-bg);
 }
 
 .resize-handle.left {
-    border-right: 1px solid #ddd;
+    border-right: 1px solid var(--border-color);
 }
 
 .resize-handle.right {
-    border-left: 1px solid #ddd;
+    border-left: 1px solid var(--border-color);
 }
 
 .toggle-button {
     padding: 4px 8px;
-    border: 1px solid #ccc;
-    background-color: white;
+    border: 1px solid var(--border-color);
+    background-color: var(--bg-primary);
     border-radius: 3px;
     cursor: pointer;
     font-size: 11px;
+    color: var(--text-primary);
 }
 
 .toggle-button:hover {
-    background-color: #f0f0f0;
+    background-color: var(--hover-bg);
 }
 
 .control-button {
     flex: 1;
     padding: 6px 10px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
     border-radius: 3px;
     cursor: pointer;
     font-size: 11px;
     transition: background-color 0.2s;
+    color: var(--text-primary);
 }
 
 .control-button:hover {
-    background-color: #e0e0e0;
+    background-color: var(--hover-bg);
 }
 
 .control-button:active {
-    background-color: #d0d0d0;
+    background-color: var(--active-bg);
 }
 
 /* Common panel styles */
 .panel {
-    background-color: #f8f8f8;
+    background-color: var(--panel-bg);
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -101,8 +120,8 @@ body {
 
 .panel h3 {
     margin-top: 0;
-    color: #333;
-    border-bottom: 1px solid #ddd;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border-color);
     padding-bottom: 8px;
     font-size: 13px;
 }
@@ -128,7 +147,7 @@ body {
     position: absolute;
     bottom: 15px;
     left: 15px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: var(--legend-bg);
     padding: 8px 12px;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -156,13 +175,13 @@ body {
 }
 
 .legend kbd {
-    background-color: #f5f5f5;
-    border: 1px solid #ddd;
+    background-color: var(--kbd-bg);
+    border: 1px solid var(--kbd-border);
     border-radius: 3px;
     padding: 1px 4px;
     font-size: 10px;
     font-family: monospace;
-    color: #333;
+    color: var(--text-primary);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
@@ -171,13 +190,13 @@ body {
     width: 250px;
     min-width: 200px;
     max-width: 400px;
-    background-color: #f8f8f8;
+    background-color: var(--panel-bg);
     padding: 20px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
     position: relative;
-    border-right: 1px solid #ddd;
+    border-right: 1px solid var(--border-color);
 }
 
 #directory-list {
@@ -220,13 +239,13 @@ body {
     width: 300px;
     min-width: 200px;
     max-width: 600px;
-    background-color: #f8f8f8;
+    background-color: var(--panel-bg);
     padding: 20px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
     position: relative;
-    border-left: 1px solid #ddd;
+    border-left: 1px solid var(--border-color);
 }
 
 #hover-info {
