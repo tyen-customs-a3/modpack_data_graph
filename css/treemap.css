@@ -1,0 +1,32 @@
+/* Treemap specific styles */
+.treemap-label {
+    font-size: 10px;
+    fill: black;
+}
+
+.treemap-label tspan:last-child {
+    fill: #666;
+    font-size: 9px;
+    font-weight: 500;
+}
+
+rect {
+    stroke: #fff;
+    stroke-width: 1px;
+    cursor: pointer;
+}
+
+rect.selected {
+    stroke-width: 2px;
+    stroke: #2196F3;
+}
+
+rect:hover {
+    stroke-width: 1.5px;
+}
+
+.empty-message {
+    font-size: 14px;
+    fill: #666;
+    text-anchor: middle;
+} 

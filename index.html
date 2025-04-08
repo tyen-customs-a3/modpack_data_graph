@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Size Visualizer</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/circlePack.css">
+    <link rel="stylesheet" href="css/treemap.css">
+</head>
+<body>
+    <div class="header">
+        <div class="slider-container">
+            <label for="depth-slider">Depth: </label>
+            <input type="range" id="depth-slider" min="1" max="5" value="1">
+            <span id="depth-value">1</span>
+        </div>
+        <button id="toggle-labels" class="toggle-button">Hide Labels</button>
+        <button id="toggle-visualization" class="toggle-button">Switch to Treemap</button>
+    </div>
+    <div class="main-container">
+        <div id="directory-sidebar">
+            <h3>Directories</h3>
+            <div id="directory-list">
+                <p>Loading directories...</p>
+            </div>
+        </div>
+        <div class="resize-handle left"></div>
+        <div id="visualization">
+            <div id="legend">
+                <h4>Controls</h4>
+                <ul>
+                    <li><kbd>Ctrl</kbd> + Click: Toggle directory visibility</li>
+                    <li>Click: Select directory/file</li>
+                    <li>Click outside: Clear selection</li>
+                </ul>
+            </div>
+        </div>
+        <div class="resize-handle right"></div>
+        <div id="sidepanel">
+            <h3>File Information</h3>
+            <div id="hover-info">
+                <p>Click on a file or directory to see details</p>
+            </div>
+            <div id="file-list">
+                <h4>Contents</h4>
+                <div id="file-list-content">
+                    <p>Select a directory to view its contents</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/core/dataManager.js"></script>
+    <script src="js/core/visualizationManager.js"></script>
+    <script src="js/core/uiManager.js"></script>
+    <script src="js/core/directoryListController.js"></script>
+    <script src="js/visualizations/circlePack.js"></script>
+    <script src="js/visualizations/treemap.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html> 

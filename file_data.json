@@ -1,0 +1,7013 @@
+{
+  "name": "arma",
+  "children": [
+    {
+      "name": "@ace",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "ace_advanced_ballistics.pbo",
+              "value": 196927
+            },
+            {
+              "name": "ace_advanced_fatigue.pbo",
+              "value": 114433
+            },
+            {
+              "name": "ace_advanced_throwing.pbo",
+              "value": 124651
+            },
+            {
+              "name": "ace_ai.pbo",
+              "value": 92805
+            },
+            {
+              "name": "ace_aircraft.pbo",
+              "value": 136963
+            },
+            {
+              "name": "ace_apl.pbo",
+              "value": 26463169
+            },
+            {
+              "name": "ace_arsenal.pbo",
+              "value": 1092694
+            },
+            {
+              "name": "ace_artillerytables.pbo",
+              "value": 475343
+            },
+            {
+              "name": "ace_atragmx.pbo",
+              "value": 1299634
+            },
+            {
+              "name": "ace_attach.pbo",
+              "value": 338449
+            },
+            {
+              "name": "ace_backpacks.pbo",
+              "value": 109359
+            },
+            {
+              "name": "ace_ballistics.pbo",
+              "value": 483514
+            },
+            {
+              "name": "ace_captives.pbo",
+              "value": 278200
+            },
+            {
+              "name": "ace_cargo.pbo",
+              "value": 268631
+            },
+            {
+              "name": "ace_casings.pbo",
+              "value": 15669
+            },
+            {
+              "name": "ace_chemlights.pbo",
+              "value": 1881746
+            },
+            {
+              "name": "ace_common.pbo",
+              "value": 1845668
+            },
+            {
+              "name": "ace_compat_aegis.pbo",
+              "value": 45778
+            },
+            {
+              "name": "ace_compat_csla.pbo",
+              "value": 7793
+            },
+            {
+              "name": "ace_compat_cup_terrains.pbo",
+              "value": 15268
+            },
+            {
+              "name": "ace_compat_cup_units.pbo",
+              "value": 48833
+            },
+            {
+              "name": "ace_compat_cup_vehicles.pbo",
+              "value": 82015
+            },
+            {
+              "name": "ace_compat_cup_weapons.pbo",
+              "value": 84928
+            },
+            {
+              "name": "ace_compat_ef.pbo",
+              "value": 7235
+            },
+            {
+              "name": "ace_compat_gm.pbo",
+              "value": 132616
+            },
+            {
+              "name": "ace_compat_r3f.pbo",
+              "value": 46581
+            },
+            {
+              "name": "ace_compat_rf.pbo",
+              "value": 58066
+            },
+            {
+              "name": "ace_compat_rhs_afrf3.pbo",
+              "value": 222857
+            },
+            {
+              "name": "ace_compat_rhs_gref3.pbo",
+              "value": 61075
+            },
+            {
+              "name": "ace_compat_rhs_saf3.pbo",
+              "value": 18863
+            },
+            {
+              "name": "ace_compat_rhs_usf3.pbo",
+              "value": 194713
+            },
+            {
+              "name": "ace_compat_rh_acc.pbo",
+              "value": 9736
+            },
+            {
+              "name": "ace_compat_rh_de.pbo",
+              "value": 16949
+            },
+            {
+              "name": "ace_compat_rh_m4.pbo",
+              "value": 19664
+            },
+            {
+              "name": "ace_compat_rh_pdw.pbo",
+              "value": 1986
+            },
+            {
+              "name": "ace_compat_rksl_pm_ii.pbo",
+              "value": 3486
+            },
+            {
+              "name": "ace_compat_sma3_iansky.pbo",
+              "value": 1896
+            },
+            {
+              "name": "ace_compat_sog.pbo",
+              "value": 961580
+            },
+            {
+              "name": "ace_compat_spe.pbo",
+              "value": 209560
+            },
+            {
+              "name": "ace_compat_ws.pbo",
+              "value": 88466
+            },
+            {
+              "name": "ace_concertina_wire.pbo",
+              "value": 355103
+            },
+            {
+              "name": "ace_cookoff.pbo",
+              "value": 9031192
+            },
+            {
+              "name": "ace_csw.pbo",
+              "value": 535263
+            },
+            {
+              "name": "ace_dagr.pbo",
+              "value": 1056688
+            },
+            {
+              "name": "ace_disarming.pbo",
+              "value": 131595
+            },
+            {
+              "name": "ace_disposable.pbo",
+              "value": 6136
+            },
+            {
+              "name": "ace_dogtags.pbo",
+              "value": 510428
+            },
+            {
+              "name": "ace_dragging.pbo",
+              "value": 380626
+            },
+            {
+              "name": "ace_dragon.pbo",
+              "value": 11752897
+            },
+            {
+              "name": "ace_explosives.pbo",
+              "value": 1418981
+            },
+            {
+              "name": "ace_fastroping.pbo",
+              "value": 16882105
+            },
+            {
+              "name": "ace_fcs.pbo",
+              "value": 96947
+            },
+            {
+              "name": "ace_fieldmanual.pbo",
+              "value": 309580
+            },
+            {
+              "name": "ace_field_rations.pbo",
+              "value": 4384541
+            },
+            {
+              "name": "ace_finger.pbo",
+              "value": 147706
+            },
+            {
+              "name": "ace_fire.pbo",
+              "value": 865276
+            },
+            {
+              "name": "ace_flags.pbo",
+              "value": 818970
+            },
+            {
+              "name": "ace_flashlights.pbo",
+              "value": 6165405
+            },
+            {
+              "name": "ace_flashsuppressors.pbo",
+              "value": 29493
+            },
+            {
+              "name": "ace_fonts.pbo",
+              "value": 1465449
+            },
+            {
+              "name": "ace_fortify.pbo",
+              "value": 145190
+            },
+            {
+              "name": "ace_frag.pbo",
+              "value": 203641
+            },
+            {
+              "name": "ace_gestures.pbo",
+              "value": 206133
+            },
+            {
+              "name": "ace_gforces.pbo",
+              "value": 24938
+            },
+            {
+              "name": "ace_goggles.pbo",
+              "value": 4710036
+            },
+            {
+              "name": "ace_grenades.pbo",
+              "value": 1463598
+            },
+            {
+              "name": "ace_gunbag.pbo",
+              "value": 7997079
+            },
+            {
+              "name": "ace_headless.pbo",
+              "value": 72108
+            },
+            {
+              "name": "ace_hearing.pbo",
+              "value": 2786611
+            },
+            {
+              "name": "ace_hellfire.pbo",
+              "value": 56695
+            },
+            {
+              "name": "ace_hitreactions.pbo",
+              "value": 31632
+            },
+            {
+              "name": "ace_hot.pbo",
+              "value": 34574
+            },
+            {
+              "name": "ace_hunterkiller.pbo",
+              "value": 20520
+            },
+            {
+              "name": "ace_huntir.pbo",
+              "value": 1218195
+            },
+            {
+              "name": "ace_intelitems.pbo",
+              "value": 205046
+            },
+            {
+              "name": "ace_interaction.pbo",
+              "value": 537827
+            },
+            {
+              "name": "ace_interact_menu.pbo",
+              "value": 576035
+            },
+            {
+              "name": "ace_inventory.pbo",
+              "value": 150906
+            },
+            {
+              "name": "ace_irlight.pbo",
+              "value": 53677
+            },
+            {
+              "name": "ace_javelin.pbo",
+              "value": 363101
+            },
+            {
+              "name": "ace_kestrel4500.pbo",
+              "value": 1274611
+            },
+            {
+              "name": "ace_killtracker.pbo",
+              "value": 27980
+            },
+            {
+              "name": "ace_laser.pbo",
+              "value": 121027
+            },
+            {
+              "name": "ace_laserpointer.pbo",
+              "value": 16242
+            },
+            {
+              "name": "ace_logistics_rope.pbo",
+              "value": 30532
+            },
+            {
+              "name": "ace_logistics_uavbattery.pbo",
+              "value": 190839
+            },
+            {
+              "name": "ace_logistics_wirecutter.pbo",
+              "value": 1555762
+            },
+            {
+              "name": "ace_magazinerepack.pbo",
+              "value": 294909
+            },
+            {
+              "name": "ace_main.pbo",
+              "value": 17475
+            },
+            {
+              "name": "ace_map.pbo",
+              "value": 261720
+            },
+            {
+              "name": "ace_maptools.pbo",
+              "value": 4023036
+            },
+            {
+              "name": "ace_map_gestures.pbo",
+              "value": 73631
+            },
+            {
+              "name": "ace_markers.pbo",
+              "value": 135922
+            },
+            {
+              "name": "ace_marker_flags.pbo",
+              "value": 465981
+            },
+            {
+              "name": "ace_markinglaser.pbo",
+              "value": 33485
+            },
+            {
+              "name": "ace_maverick.pbo",
+              "value": 29875
+            },
+            {
+              "name": "ace_medical.pbo",
+              "value": 212659
+            },
+            {
+              "name": "ace_medical_ai.pbo",
+              "value": 84466
+            },
+            {
+              "name": "ace_medical_blood.pbo",
+              "value": 108289
+            },
+            {
+              "name": "ace_medical_damage.pbo",
+              "value": 131330
+            },
+            {
+              "name": "ace_medical_engine.pbo",
+              "value": 150203
+            },
+            {
+              "name": "ace_medical_feedback.pbo",
+              "value": 3427574
+            },
+            {
+              "name": "ace_medical_gui.pbo",
+              "value": 1084849
+            },
+            {
+              "name": "ace_medical_statemachine.pbo",
+              "value": 74795
+            },
+            {
+              "name": "ace_medical_status.pbo",
+              "value": 82625
+            },
+            {
+              "name": "ace_medical_treatment.pbo",
+              "value": 30570046
+            },
+            {
+              "name": "ace_medical_vitals.pbo",
+              "value": 56304
+            },
+            {
+              "name": "ace_metis.pbo",
+              "value": 2666
+            },
+            {
+              "name": "ace_microdagr.pbo",
+              "value": 3634682
+            },
+            {
+              "name": "ace_minedetector.pbo",
+              "value": 2267401
+            },
+            {
+              "name": "ace_missileguidance.pbo",
+              "value": 438007
+            },
+            {
+              "name": "ace_missile_aim120.pbo",
+              "value": 22473
+            },
+            {
+              "name": "ace_missile_aim9.pbo",
+              "value": 20754
+            },
+            {
+              "name": "ace_missile_clgp.pbo",
+              "value": 234580
+            },
+            {
+              "name": "ace_missile_gbu.pbo",
+              "value": 10642
+            },
+            {
+              "name": "ace_missile_hud.pbo",
+              "value": 52177
+            },
+            {
+              "name": "ace_missile_manpad.pbo",
+              "value": 11912
+            },
+            {
+              "name": "ace_missile_sam.pbo",
+              "value": 10387
+            },
+            {
+              "name": "ace_missile_sdb.pbo",
+              "value": 4952
+            },
+            {
+              "name": "ace_missile_vikhr.pbo",
+              "value": 7540
+            },
+            {
+              "name": "ace_missionmodules.pbo",
+              "value": 37913
+            },
+            {
+              "name": "ace_mk6mortar.pbo",
+              "value": 749030
+            },
+            {
+              "name": "ace_modules.pbo",
+              "value": 10728
+            },
+            {
+              "name": "ace_movement.pbo",
+              "value": 43819
+            },
+            {
+              "name": "ace_mx2a.pbo",
+              "value": 2163950
+            },
+            {
+              "name": "ace_nametags.pbo",
+              "value": 458091
+            },
+            {
+              "name": "ace_nightvision.pbo",
+              "value": 2767119
+            },
+            {
+              "name": "ace_nlaw.pbo",
+              "value": 49356
+            },
+            {
+              "name": "ace_noidle.pbo",
+              "value": 3493
+            },
+            {
+              "name": "ace_noradio.pbo",
+              "value": 6261
+            },
+            {
+              "name": "ace_norearm.pbo",
+              "value": 1250
+            },
+            {
+              "name": "ace_novehicleclanlogo.pbo",
+              "value": 10343
+            },
+            {
+              "name": "ace_optics.pbo",
+              "value": 3575125
+            },
+            {
+              "name": "ace_optionsmenu.pbo",
+              "value": 149761
+            },
+            {
+              "name": "ace_overheating.pbo",
+              "value": 1558444
+            },
+            {
+              "name": "ace_overpressure.pbo",
+              "value": 49813
+            },
+            {
+              "name": "ace_parachute.pbo",
+              "value": 156385
+            },
+            {
+              "name": "ace_pylons.pbo",
+              "value": 93171
+            },
+            {
+              "name": "ace_quickmount.pbo",
+              "value": 81888
+            },
+            {
+              "name": "ace_rangecard.pbo",
+              "value": 147307
+            },
+            {
+              "name": "ace_realisticnames.pbo",
+              "value": 224263
+            },
+            {
+              "name": "ace_realisticweights.pbo",
+              "value": 21848
+            },
+            {
+              "name": "ace_rearm.pbo",
+              "value": 235139
+            },
+            {
+              "name": "ace_recoil.pbo",
+              "value": 33577
+            },
+            {
+              "name": "ace_refuel.pbo",
+              "value": 2362194
+            },
+            {
+              "name": "ace_reload.pbo",
+              "value": 60826
+            },
+            {
+              "name": "ace_reloadlaunchers.pbo",
+              "value": 33337
+            },
+            {
+              "name": "ace_repair.pbo",
+              "value": 9070310
+            },
+            {
+              "name": "ace_respawn.pbo",
+              "value": 98712
+            },
+            {
+              "name": "ace_safemode.pbo",
+              "value": 34492
+            },
+            {
+              "name": "ace_sandbag.pbo",
+              "value": 2019821
+            },
+            {
+              "name": "ace_scopes.pbo",
+              "value": 450609
+            },
+            {
+              "name": "ace_sitting.pbo",
+              "value": 111660
+            },
+            {
+              "name": "ace_slideshow.pbo",
+              "value": 61643
+            },
+            {
+              "name": "ace_smallarms.pbo",
+              "value": 20599
+            },
+            {
+              "name": "ace_spectator.pbo",
+              "value": 799231
+            },
+            {
+              "name": "ace_spottingscope.pbo",
+              "value": 12249007
+            },
+            {
+              "name": "ace_switchunits.pbo",
+              "value": 59008
+            },
+            {
+              "name": "ace_tacticalladder.pbo",
+              "value": 1277409
+            },
+            {
+              "name": "ace_tagging.pbo",
+              "value": 4521031
+            },
+            {
+              "name": "ace_thermals.pbo",
+              "value": 1333
+            },
+            {
+              "name": "ace_towing.pbo",
+              "value": 72316
+            },
+            {
+              "name": "ace_trenches.pbo",
+              "value": 138009
+            },
+            {
+              "name": "ace_tripod.pbo",
+              "value": 745190
+            },
+            {
+              "name": "ace_ui.pbo",
+              "value": 120521
+            },
+            {
+              "name": "ace_vector.pbo",
+              "value": 4452257
+            },
+            {
+              "name": "ace_vehiclelock.pbo",
+              "value": 282144
+            },
+            {
+              "name": "ace_vehicles.pbo",
+              "value": 62966
+            },
+            {
+              "name": "ace_vehicle_damage.pbo",
+              "value": 132181
+            },
+            {
+              "name": "ace_viewdistance.pbo",
+              "value": 46997
+            },
+            {
+              "name": "ace_viewports.pbo",
+              "value": 1696602
+            },
+            {
+              "name": "ace_viewrestriction.pbo",
+              "value": 56825
+            },
+            {
+              "name": "ace_volume.pbo",
+              "value": 23882
+            },
+            {
+              "name": "ace_weaponselect.pbo",
+              "value": 56736
+            },
+            {
+              "name": "ace_weather.pbo",
+              "value": 241090
+            },
+            {
+              "name": "ace_winddeflection.pbo",
+              "value": 32338
+            },
+            {
+              "name": "ace_xm157.pbo",
+              "value": 708584
+            },
+            {
+              "name": "ace_yardage450.pbo",
+              "value": 1676735
+            },
+            {
+              "name": "ace_zeus.pbo",
+              "value": 651427
+            }
+          ]
+        },
+        {
+          "name": "optionals",
+          "children": [
+            {
+              "name": "@ace_noactionmenu",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_noactionmenu.pbo",
+                      "value": 1845
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_nocrosshair",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_nocrosshair.pbo",
+                      "value": 2556
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_nomedical",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_nomedical.pbo",
+                      "value": 801
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_norealisticnames",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_norealisticnames.pbo",
+                      "value": 846
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_nouniformrestrictions",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_nouniformrestrictions.pbo",
+                      "value": 24943
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_particles",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_particles.pbo",
+                      "value": 65046
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_realisticdispersion",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_realisticdispersion.pbo",
+                      "value": 11639
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "@ace_tracers",
+              "children": [
+                {
+                  "name": "addons",
+                  "children": [
+                    {
+                      "name": "ace_tracers.pbo",
+                      "value": 317059
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@acre2",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "acre_ace_interact.pbo",
+              "value": 109300
+            },
+            {
+              "name": "acre_api.pbo",
+              "value": 293881
+            },
+            {
+              "name": "acre_compat_csla.pbo",
+              "value": 68214673
+            },
+            {
+              "name": "acre_compat_gm.pbo",
+              "value": 67984888
+            },
+            {
+              "name": "acre_compat_rhs_afrf3.pbo",
+              "value": 20593
+            },
+            {
+              "name": "acre_compat_rhs_usf3.pbo",
+              "value": 35580
+            },
+            {
+              "name": "acre_compat_sog.pbo",
+              "value": 151533286
+            },
+            {
+              "name": "acre_compat_spe.pbo",
+              "value": 168150447
+            },
+            {
+              "name": "acre_compat_ws.pbo",
+              "value": 67470572
+            },
+            {
+              "name": "acre_main.pbo",
+              "value": 185347
+            },
+            {
+              "name": "acre_sys_antenna.pbo",
+              "value": 20238575
+            },
+            {
+              "name": "acre_sys_attenuate.pbo",
+              "value": 59669
+            },
+            {
+              "name": "acre_sys_bf888s.pbo",
+              "value": 12089850
+            },
+            {
+              "name": "acre_sys_components.pbo",
+              "value": 93092
+            },
+            {
+              "name": "acre_sys_core.pbo",
+              "value": 430949
+            },
+            {
+              "name": "acre_sys_data.pbo",
+              "value": 124946
+            },
+            {
+              "name": "acre_sys_external.pbo",
+              "value": 61398
+            },
+            {
+              "name": "acre_sys_fonts.pbo",
+              "value": 1397271
+            },
+            {
+              "name": "acre_sys_gestures.pbo",
+              "value": 28265
+            },
+            {
+              "name": "acre_sys_godmode.pbo",
+              "value": 50025
+            },
+            {
+              "name": "acre_sys_gsa.pbo",
+              "value": 10897225
+            },
+            {
+              "name": "acre_sys_gui.pbo",
+              "value": 217271
+            },
+            {
+              "name": "acre_sys_intercom.pbo",
+              "value": 3679494
+            },
+            {
+              "name": "acre_sys_io.pbo",
+              "value": 27982
+            },
+            {
+              "name": "acre_sys_list.pbo",
+              "value": 87108
+            },
+            {
+              "name": "acre_sys_modes.pbo",
+              "value": 20622
+            },
+            {
+              "name": "acre_sys_oe303.pbo",
+              "value": 775699
+            },
+            {
+              "name": "acre_sys_prc117f.pbo",
+              "value": 4457671
+            },
+            {
+              "name": "acre_sys_prc148.pbo",
+              "value": 6007180
+            },
+            {
+              "name": "acre_sys_prc152.pbo",
+              "value": 4710283
+            },
+            {
+              "name": "acre_sys_prc343.pbo",
+              "value": 11975684
+            },
+            {
+              "name": "acre_sys_prc77.pbo",
+              "value": 17573070
+            },
+            {
+              "name": "acre_sys_rack.pbo",
+              "value": 801532
+            },
+            {
+              "name": "acre_sys_radio.pbo",
+              "value": 7219669
+            },
+            {
+              "name": "acre_sys_rpc.pbo",
+              "value": 10736
+            },
+            {
+              "name": "acre_sys_sem52sl.pbo",
+              "value": 8584689
+            },
+            {
+              "name": "acre_sys_sem70.pbo",
+              "value": 19053214
+            },
+            {
+              "name": "acre_sys_server.pbo",
+              "value": 86797
+            },
+            {
+              "name": "acre_sys_signal.pbo",
+              "value": 25803
+            },
+            {
+              "name": "acre_sys_signalmap.pbo",
+              "value": 95749
+            },
+            {
+              "name": "acre_sys_sounds.pbo",
+              "value": 1208192
+            },
+            {
+              "name": "acre_sys_spectator.pbo",
+              "value": 39666
+            },
+            {
+              "name": "acre_sys_zeus.pbo",
+              "value": 30835
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@aegis",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "air_f_aegis.pbo",
+              "value": 622106751
+            },
+            {
+              "name": "air_f_aegis_ef.pbo",
+              "value": 6463
+            },
+            {
+              "name": "air_f_aegis_rf.pbo",
+              "value": 22572211
+            },
+            {
+              "name": "animals_f_aegis.pbo",
+              "value": 29008184
+            },
+            {
+              "name": "anims_f_aegis.pbo",
+              "value": 2723503
+            },
+            {
+              "name": "armor_f_aegis.pbo",
+              "value": 332234603
+            },
+            {
+              "name": "armor_f_aegis_ef.pbo",
+              "value": 31249
+            },
+            {
+              "name": "baseconfig_f_aegis.pbo",
+              "value": 2441
+            },
+            {
+              "name": "boat_f_aegis.pbo",
+              "value": 26742642
+            },
+            {
+              "name": "boat_f_aegis_ef.pbo",
+              "value": 41564
+            },
+            {
+              "name": "cargoposes_f_aegis.pbo",
+              "value": 385531
+            },
+            {
+              "name": "characters_f_aegis.pbo",
+              "value": 626841890
+            },
+            {
+              "name": "characters_f_aegis_ef.pbo",
+              "value": 2350
+            },
+            {
+              "name": "characters_f_aegis_rf.pbo",
+              "value": 3694395
+            },
+            {
+              "name": "data_f_aegis.pbo",
+              "value": 21310777
+            },
+            {
+              "name": "dubbing_radio_f_aegis.pbo",
+              "value": 2571
+            },
+            {
+              "name": "editorpreviews_f_aegis.pbo",
+              "value": 70285803
+            },
+            {
+              "name": "functions_f_aegis.pbo",
+              "value": 50925
+            },
+            {
+              "name": "language_f_aegis.pbo",
+              "value": 1873229
+            },
+            {
+              "name": "missions_f_aegis.pbo",
+              "value": 441414
+            },
+            {
+              "name": "modules_f_aegis.pbo",
+              "value": 28365
+            },
+            {
+              "name": "music_f_aegis.pbo",
+              "value": 45708805
+            },
+            {
+              "name": "props_f_aegis.pbo",
+              "value": 8617644
+            },
+            {
+              "name": "soft_f_aegis.pbo",
+              "value": 197604560
+            },
+            {
+              "name": "soft_f_aegis_ef.pbo",
+              "value": 18366
+            },
+            {
+              "name": "soft_f_aegis_rf.pbo",
+              "value": 6539773
+            },
+            {
+              "name": "sounds_f_aegis.pbo",
+              "value": 376206445
+            },
+            {
+              "name": "static_f_aegis.pbo",
+              "value": 47577026
+            },
+            {
+              "name": "static_f_aegis_rf.pbo",
+              "value": 5876
+            },
+            {
+              "name": "structures_f_aegis.pbo",
+              "value": 62397578
+            },
+            {
+              "name": "supplies_f_aegis.pbo",
+              "value": 130022851
+            },
+            {
+              "name": "supplies_f_aegis_rf.pbo",
+              "value": 4763
+            },
+            {
+              "name": "ui_f_aegis.pbo",
+              "value": 1262906
+            },
+            {
+              "name": "weapons_f_aegis.pbo",
+              "value": 1040881202
+            },
+            {
+              "name": "weapons_f_aegis_ef.pbo",
+              "value": 2653
+            },
+            {
+              "name": "weapons_f_aegis_rf.pbo",
+              "value": 7294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@aegis_atlas",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "air_f_atlas.pbo",
+              "value": 168464830
+            },
+            {
+              "name": "air_f_atlas_rf.pbo",
+              "value": 29842471
+            },
+            {
+              "name": "anims_f_atlas.pbo",
+              "value": 1385270
+            },
+            {
+              "name": "armor_f_atlas.pbo",
+              "value": 201058690
+            },
+            {
+              "name": "baseconfig_f_atlas.pbo",
+              "value": 459
+            },
+            {
+              "name": "boat_f_atlas.pbo",
+              "value": 13182400
+            },
+            {
+              "name": "characters_f_atlas.pbo",
+              "value": 643542203
+            },
+            {
+              "name": "characters_f_atlas_rf.pbo",
+              "value": 1786419
+            },
+            {
+              "name": "data_f_atlas.pbo",
+              "value": 3167449
+            },
+            {
+              "name": "editorpreviews_f_atlas.pbo",
+              "value": 36168356
+            },
+            {
+              "name": "language_f_atlas.pbo",
+              "value": 730686
+            },
+            {
+              "name": "missions_f_atlas.pbo",
+              "value": 157462
+            },
+            {
+              "name": "soft_f_atlas.pbo",
+              "value": 178849039
+            },
+            {
+              "name": "soft_f_atlas_rf.pbo",
+              "value": 68792926
+            },
+            {
+              "name": "sounds_f_atlas.pbo",
+              "value": 63501494
+            },
+            {
+              "name": "static_f_atlas.pbo",
+              "value": 22112828
+            },
+            {
+              "name": "static_f_atlas_rf.pbo",
+              "value": 3722
+            },
+            {
+              "name": "structures_f_atlas.pbo",
+              "value": 10267770
+            },
+            {
+              "name": "supplies_f_atlas.pbo",
+              "value": 77111293
+            },
+            {
+              "name": "ui_f_atlas.pbo",
+              "value": 404668
+            },
+            {
+              "name": "weapons_f_atlas.pbo",
+              "value": 178811525
+            },
+            {
+              "name": "weapons_f_atlas_rf.pbo",
+              "value": 1649
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@aegis_atlas_opposing_forces",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "air_f_opf.pbo",
+              "value": 2427156
+            },
+            {
+              "name": "anims_f_opf.pbo",
+              "value": 204737
+            },
+            {
+              "name": "armor_f_opf.pbo",
+              "value": 22661581
+            },
+            {
+              "name": "characters_f_opf.pbo",
+              "value": 50499204
+            },
+            {
+              "name": "characters_f_opf_rf.pbo",
+              "value": 5907
+            },
+            {
+              "name": "data_f_opf.pbo",
+              "value": 1526119
+            },
+            {
+              "name": "editorpreviews_f_opf.pbo",
+              "value": 4144104
+            },
+            {
+              "name": "functions_f_opf.pbo",
+              "value": 2297
+            },
+            {
+              "name": "language_f_opf.pbo",
+              "value": 90808
+            },
+            {
+              "name": "soft_f_opf.pbo",
+              "value": 31001866
+            },
+            {
+              "name": "soft_f_opf_rf.pbo",
+              "value": 6332
+            },
+            {
+              "name": "sounds_f_opf.pbo",
+              "value": 13304764
+            },
+            {
+              "name": "static_f_opf.pbo",
+              "value": 8757
+            },
+            {
+              "name": "structures_f_opf.pbo",
+              "value": 20392055
+            },
+            {
+              "name": "supplies_f_opf.pbo",
+              "value": 22344
+            },
+            {
+              "name": "ui_f_opf.pbo",
+              "value": 45350
+            },
+            {
+              "name": "weapons_f_opf.pbo",
+              "value": 48199367
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@aegis_revolucion",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "air_f_revolucion.pbo",
+              "value": 40274330
+            },
+            {
+              "name": "air_f_revolucion_fa.pbo",
+              "value": 7517044
+            },
+            {
+              "name": "air_f_revolucion_jh.pbo",
+              "value": 8652427
+            },
+            {
+              "name": "air_f_revolucion_rf.pbo",
+              "value": 2054
+            },
+            {
+              "name": "armor_f_revolucion.pbo",
+              "value": 33645732
+            },
+            {
+              "name": "boat_f_revolucion.pbo",
+              "value": 9684
+            },
+            {
+              "name": "boat_f_revolucion_ef.pbo",
+              "value": 17483821
+            },
+            {
+              "name": "characters_f_revolucion.pbo",
+              "value": 193901070
+            },
+            {
+              "name": "characters_f_revolucion_ef.pbo",
+              "value": 2729587
+            },
+            {
+              "name": "characters_f_revolucion_rf.pbo",
+              "value": 16894
+            },
+            {
+              "name": "data_f_revolucion.pbo",
+              "value": 1588559
+            },
+            {
+              "name": "editorpreviews_f_revolucion.pbo",
+              "value": 9183638
+            },
+            {
+              "name": "language_f_revolucion.pbo",
+              "value": 135969
+            },
+            {
+              "name": "missions_f_revolucion.pbo",
+              "value": 3367
+            },
+            {
+              "name": "modules_f_revolucion.pbo",
+              "value": 1139
+            },
+            {
+              "name": "soft_f_revolucion.pbo",
+              "value": 45676840
+            },
+            {
+              "name": "soft_f_revolucion_rf.pbo",
+              "value": 28836879
+            },
+            {
+              "name": "static_f_revolucion.pbo",
+              "value": 12448
+            },
+            {
+              "name": "static_f_revolucion_rf.pbo",
+              "value": 2450
+            },
+            {
+              "name": "structures_f_revolucion.pbo",
+              "value": 3991
+            },
+            {
+              "name": "supplies_f_revolucion.pbo",
+              "value": 5146090
+            },
+            {
+              "name": "supplies_f_revolucion_rf.pbo",
+              "value": 2079258
+            },
+            {
+              "name": "ui_f_revolucion.pbo",
+              "value": 1061832
+            },
+            {
+              "name": "weapons_f_revolucion.pbo",
+              "value": 31201
+            },
+            {
+              "name": "weapons_f_revolucion_rf.pbo",
+              "value": 1899
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@aliabad",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "mcn_aliabad.pbo",
+              "value": 112731573
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@anizay",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_anizay.pbo",
+              "value": 298934717
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@bearskins",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "6b23_6sh92_variants.pbo",
+              "value": 4733224
+            },
+            {
+              "name": "6b47_variants.pbo",
+              "value": 8819074
+            },
+            {
+              "name": "6b5_variants.pbo",
+              "value": 9725290
+            },
+            {
+              "name": "6b7_1m_variants.pbo",
+              "value": 2448880
+            },
+            {
+              "name": "6sh46_high_capacity.pbo",
+              "value": 685
+            },
+            {
+              "name": "ach_variants.pbo",
+              "value": 1927336
+            },
+            {
+              "name": "ak74m_orange_bakelite.pbo",
+              "value": 660
+            },
+            {
+              "name": "ak74_magazine_variants.pbo",
+              "value": 8394880
+            },
+            {
+              "name": "akms_gold.pbo",
+              "value": 468
+            },
+            {
+              "name": "balaclava_variants.pbo",
+              "value": 1795045
+            },
+            {
+              "name": "bandana_variants.pbo",
+              "value": 983994
+            },
+            {
+              "name": "bcap_variants.pbo",
+              "value": 795006
+            },
+            {
+              "name": "bdu_booniehat_variants.pbo",
+              "value": 3686307
+            },
+            {
+              "name": "beanie_variants.pbo",
+              "value": 304231
+            },
+            {
+              "name": "bmp_variants.pbo",
+              "value": 11531314
+            },
+            {
+              "name": "brdm2_variants.pbo",
+              "value": 25059809
+            },
+            {
+              "name": "btr60_variants.pbo",
+              "value": 4167637
+            },
+            {
+              "name": "carryall_variants.pbo",
+              "value": 3727352
+            },
+            {
+              "name": "chicom_variants.pbo",
+              "value": 4223283
+            },
+            {
+              "name": "ciras_variants.pbo",
+              "value": 15592565
+            },
+            {
+              "name": "cpc_variants.pbo",
+              "value": 9582814
+            },
+            {
+              "name": "cup_diemaco.pbo",
+              "value": 2976993
+            },
+            {
+              "name": "cup_paramilitary_clothes_variants.pbo",
+              "value": 3476909
+            },
+            {
+              "name": "cup_ratnik.pbo",
+              "value": 8559463
+            },
+            {
+              "name": "desert_vehicles.pbo",
+              "value": 17611538
+            },
+            {
+              "name": "donbass_vehicles.pbo",
+              "value": 17711199
+            },
+            {
+              "name": "eagle_aiii_variants.pbo",
+              "value": 16148197
+            },
+            {
+              "name": "fast_variants.pbo",
+              "value": 17149753
+            },
+            {
+              "name": "fieldcap_variants.pbo",
+              "value": 405
+            },
+            {
+              "name": "fieldpack_variants.pbo",
+              "value": 2459917
+            },
+            {
+              "name": "frog_variants.pbo",
+              "value": 6128149
+            },
+            {
+              "name": "g3_variants.pbo",
+              "value": 43596742
+            },
+            {
+              "name": "gorkar_variants.pbo",
+              "value": 60351573
+            },
+            {
+              "name": "gorka_1_variants.pbo",
+              "value": 19054221
+            },
+            {
+              "name": "hmmwv_gk.pbo",
+              "value": 8274178
+            },
+            {
+              "name": "indep_uniform2_variants.pbo",
+              "value": 54065913
+            },
+            {
+              "name": "indep_uniform_variants.pbo",
+              "value": 21271484
+            },
+            {
+              "name": "k93_variants.pbo",
+              "value": 2240782
+            },
+            {
+              "name": "lwh_variants.pbo",
+              "value": 13852113
+            },
+            {
+              "name": "m10_variants.pbo",
+              "value": 7604976
+            },
+            {
+              "name": "m113_variants.pbo",
+              "value": 38913159
+            },
+            {
+              "name": "m1_variants.pbo",
+              "value": 4130492
+            },
+            {
+              "name": "m23_pioneer_variants.pbo",
+              "value": 3250
+            },
+            {
+              "name": "m249_variants.pbo",
+              "value": 3551526
+            },
+            {
+              "name": "m4a1_variants.pbo",
+              "value": 8895109
+            },
+            {
+              "name": "m4a1_woodland.pbo",
+              "value": 365
+            },
+            {
+              "name": "m88_variants.pbo",
+              "value": 28384277
+            },
+            {
+              "name": "m93_variants.pbo",
+              "value": 30810022
+            },
+            {
+              "name": "m97_cover_variants.pbo",
+              "value": 2418442
+            },
+            {
+              "name": "main.pbo",
+              "value": 306622
+            },
+            {
+              "name": "mbav_variants.pbo",
+              "value": 3495692
+            },
+            {
+              "name": "mbss_paca_variants.pbo",
+              "value": 3238129
+            },
+            {
+              "name": "mich_variants.pbo",
+              "value": 9414567
+            },
+            {
+              "name": "otv_variants.pbo",
+              "value": 2117470
+            },
+            {
+              "name": "patrolcap_variants.pbo",
+              "value": 584464
+            },
+            {
+              "name": "rd54_variants.pbo",
+              "value": 1647977
+            },
+            {
+              "name": "show_hidden.pbo",
+              "value": 5685
+            },
+            {
+              "name": "sidor_variants.pbo",
+              "value": 4930644
+            },
+            {
+              "name": "spcs_variants.pbo",
+              "value": 384
+            },
+            {
+              "name": "ssh68_cover_variants.pbo",
+              "value": 2252973
+            },
+            {
+              "name": "ssh68_variants.pbo",
+              "value": 1579365
+            },
+            {
+              "name": "t72_variants.pbo",
+              "value": 15399283
+            },
+            {
+              "name": "tactical_vest_variants.pbo",
+              "value": 3797257
+            },
+            {
+              "name": "takistani_vehicles.pbo",
+              "value": 29126994
+            },
+            {
+              "name": "vkbo_variants.pbo",
+              "value": 4843668
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@bozcaada",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "bozcaada.pbo",
+              "value": 179844504
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cba_a3",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cba_accessory.pbo",
+              "value": 27368
+            },
+            {
+              "name": "cba_ai.pbo",
+              "value": 84470
+            },
+            {
+              "name": "cba_arrays.pbo",
+              "value": 119853
+            },
+            {
+              "name": "cba_bitwise.pbo",
+              "value": 37684
+            },
+            {
+              "name": "cba_characters.pbo",
+              "value": 18659
+            },
+            {
+              "name": "cba_common.pbo",
+              "value": 590733
+            },
+            {
+              "name": "cba_diagnostic.pbo",
+              "value": 125479
+            },
+            {
+              "name": "cba_disposable.pbo",
+              "value": 41164
+            },
+            {
+              "name": "cba_events.pbo",
+              "value": 215829
+            },
+            {
+              "name": "cba_hashes.pbo",
+              "value": 130782
+            },
+            {
+              "name": "cba_help.pbo",
+              "value": 35765
+            },
+            {
+              "name": "cba_jam.pbo",
+              "value": 127972
+            },
+            {
+              "name": "cba_jr.pbo",
+              "value": 95237
+            },
+            {
+              "name": "cba_keybinding.pbo",
+              "value": 117117
+            },
+            {
+              "name": "cba_loadout.pbo",
+              "value": 6519
+            },
+            {
+              "name": "cba_main.pbo",
+              "value": 161956
+            },
+            {
+              "name": "cba_main_a3.pbo",
+              "value": 3810
+            },
+            {
+              "name": "cba_modules.pbo",
+              "value": 84604
+            },
+            {
+              "name": "cba_music.pbo",
+              "value": 50519
+            },
+            {
+              "name": "cba_network.pbo",
+              "value": 54664
+            },
+            {
+              "name": "cba_optics.pbo",
+              "value": 528490
+            },
+            {
+              "name": "cba_quicktime.pbo",
+              "value": 22675
+            },
+            {
+              "name": "cba_settings.pbo",
+              "value": 384683
+            },
+            {
+              "name": "cba_statemachine.pbo",
+              "value": 83635
+            },
+            {
+              "name": "cba_strings.pbo",
+              "value": 107517
+            },
+            {
+              "name": "cba_ui.pbo",
+              "value": 905951
+            },
+            {
+              "name": "cba_vectors.pbo",
+              "value": 87446
+            },
+            {
+              "name": "cba_versioning.pbo",
+              "value": 46736
+            },
+            {
+              "name": "cba_xeh.pbo",
+              "value": 165380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cham",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_cham.pbo",
+              "value": 224733930
+            },
+            {
+              "name": "tem_chamw.pbo",
+              "value": 263691241
+            },
+            {
+              "name": "tem_chamw_snow.pbo",
+              "value": 6513624
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cigs",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cigs_anim.pbo",
+              "value": 1658855
+            },
+            {
+              "name": "cigs_baja_blast.pbo",
+              "value": 1221580
+            },
+            {
+              "name": "cigs_black_devil.pbo",
+              "value": 3265795
+            },
+            {
+              "name": "cigs_cigars.pbo",
+              "value": 4231687
+            },
+            {
+              "name": "cigs_core.pbo",
+              "value": 786608
+            },
+            {
+              "name": "cigs_craven.pbo",
+              "value": 4042273
+            },
+            {
+              "name": "cigs_crayons.pbo",
+              "value": 3211411
+            },
+            {
+              "name": "cigs_eckstein.pbo",
+              "value": 3749097
+            },
+            {
+              "name": "cigs_legacy.pbo",
+              "value": 31300
+            },
+            {
+              "name": "cigs_lucky_strike.pbo",
+              "value": 2329535
+            },
+            {
+              "name": "cigs_main.pbo",
+              "value": 8704
+            },
+            {
+              "name": "cigs_morley.pbo",
+              "value": 1284344
+            },
+            {
+              "name": "cigs_pops.pbo",
+              "value": 295631
+            },
+            {
+              "name": "cigs_savage.pbo",
+              "value": 1234441
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@clafghan",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "clafghan.pbo",
+              "value": 340778560
+            },
+            {
+              "name": "clafghan_fix.pbo",
+              "value": 3450499
+            },
+            {
+              "name": "clafghan_tides.pbo",
+              "value": 56567
+            },
+            {
+              "name": "colum_vertical_pond.pbo",
+              "value": 4829
+            },
+            {
+              "name": "mb_bushes.pbo",
+              "value": 13714832
+            },
+            {
+              "name": "mb_clutter.pbo",
+              "value": 13283321
+            },
+            {
+              "name": "mb_rocks.pbo",
+              "value": 61044427
+            },
+            {
+              "name": "mb_trees.pbo",
+              "value": 59905066
+            },
+            {
+              "name": "opxbuildings.pbo",
+              "value": 231132246
+            },
+            {
+              "name": "opxmisc.pbo",
+              "value": 55055765
+            },
+            {
+              "name": "opxplants.pbo",
+              "value": 33497245
+            },
+            {
+              "name": "opxroads.pbo",
+              "value": 53524009
+            },
+            {
+              "name": "razmisc.pbo",
+              "value": 213971750
+            },
+            {
+              "name": "xin_ponds.pbo",
+              "value": 3317737
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@corran",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "oski_corran.pbo",
+              "value": 333656912
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_terrains_core",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_terrains_a1always_dummy.pbo",
+              "value": 32875
+            },
+            {
+              "name": "cup_terrains_a1_editorobjects.pbo",
+              "value": 172131
+            },
+            {
+              "name": "cup_terrains_a2_editorobjects.pbo",
+              "value": 312086
+            },
+            {
+              "name": "cup_terrains_aia_compat.pbo",
+              "value": 15943
+            },
+            {
+              "name": "cup_terrains_baseconfig_f.pbo",
+              "value": 13937
+            },
+            {
+              "name": "cup_terrains_buildings.pbo",
+              "value": 911763635
+            },
+            {
+              "name": "cup_terrains_ca_a10_dummy.pbo",
+              "value": 6844708
+            },
+            {
+              "name": "cup_terrains_ca_air2_dummy.pbo",
+              "value": 98593518
+            },
+            {
+              "name": "cup_terrains_ca_air3_dummy.pbo",
+              "value": 7281239
+            },
+            {
+              "name": "cup_terrains_ca_air_dummy.pbo",
+              "value": 45185970
+            },
+            {
+              "name": "cup_terrains_ca_air_d_baf_dummy.pbo",
+              "value": 932876
+            },
+            {
+              "name": "cup_terrains_ca_air_e_dummy.pbo",
+              "value": 93830293
+            },
+            {
+              "name": "cup_terrains_ca_air_pmc_dummy.pbo",
+              "value": 542431
+            },
+            {
+              "name": "cup_terrains_ca_animals2_dummy.pbo",
+              "value": 135355
+            },
+            {
+              "name": "cup_terrains_ca_buildings.pbo",
+              "value": 686230212
+            },
+            {
+              "name": "cup_terrains_ca_buildings2.pbo",
+              "value": 869252959
+            },
+            {
+              "name": "cup_terrains_ca_buildings2_c.pbo",
+              "value": 357591
+            },
+            {
+              "name": "cup_terrains_ca_buildings_c.pbo",
+              "value": 512059
+            },
+            {
+              "name": "cup_terrains_ca_ca_acr.pbo",
+              "value": 101992
+            },
+            {
+              "name": "cup_terrains_ca_ca_c.pbo",
+              "value": 22990
+            },
+            {
+              "name": "cup_terrains_ca_ca_e.pbo",
+              "value": 11587444
+            },
+            {
+              "name": "cup_terrains_ca_ca_pmc.pbo",
+              "value": 107307
+            },
+            {
+              "name": "cup_terrains_ca_characters2_dummy.pbo",
+              "value": 57791118
+            },
+            {
+              "name": "cup_terrains_ca_cti_buildings.pbo",
+              "value": 70512062
+            },
+            {
+              "name": "cup_terrains_ca_data.pbo",
+              "value": 137049528
+            },
+            {
+              "name": "cup_terrains_ca_data_baf.pbo",
+              "value": 23461867
+            },
+            {
+              "name": "cup_terrains_ca_data_baf_c.pbo",
+              "value": 8989
+            },
+            {
+              "name": "cup_terrains_ca_hotfix.pbo",
+              "value": 4863834
+            },
+            {
+              "name": "cup_terrains_ca_hotfix_c.pbo",
+              "value": 2692
+            },
+            {
+              "name": "cup_terrains_ca_l39_dummy.pbo",
+              "value": 9731374
+            },
+            {
+              "name": "cup_terrains_ca_language.pbo",
+              "value": 3455289
+            },
+            {
+              "name": "cup_terrains_ca_languagemissions.pbo",
+              "value": 10311355
+            },
+            {
+              "name": "cup_terrains_ca_languagemissions_baf.pbo",
+              "value": 1384930
+            },
+            {
+              "name": "cup_terrains_ca_languagemissions_e.pbo",
+              "value": 5942365
+            },
+            {
+              "name": "cup_terrains_ca_languagemissions_pmc.pbo",
+              "value": 1634208
+            },
+            {
+              "name": "cup_terrains_ca_language_acr.pbo",
+              "value": 104004
+            },
+            {
+              "name": "cup_terrains_ca_language_baf.pbo",
+              "value": 194337
+            },
+            {
+              "name": "cup_terrains_ca_language_e.pbo",
+              "value": 1497471
+            },
+            {
+              "name": "cup_terrains_ca_language_pmc.pbo",
+              "value": 115070
+            },
+            {
+              "name": "cup_terrains_ca_misc.pbo",
+              "value": 309511873
+            },
+            {
+              "name": "cup_terrains_ca_misc2.pbo",
+              "value": 49478433
+            },
+            {
+              "name": "cup_terrains_ca_misc3.pbo",
+              "value": 158343248
+            },
+            {
+              "name": "cup_terrains_ca_misc3_c.pbo",
+              "value": 126283
+            },
+            {
+              "name": "cup_terrains_ca_misc_acr.pbo",
+              "value": 10191879
+            },
+            {
+              "name": "cup_terrains_ca_misc_acr_c.pbo",
+              "value": 17732
+            },
+            {
+              "name": "cup_terrains_ca_misc_baf.pbo",
+              "value": 120646
+            },
+            {
+              "name": "cup_terrains_ca_misc_e.pbo",
+              "value": 131760894
+            },
+            {
+              "name": "cup_terrains_ca_misc_e_c.pbo",
+              "value": 89623
+            },
+            {
+              "name": "cup_terrains_ca_misc_rtm2.pbo",
+              "value": 2356
+            },
+            {
+              "name": "cup_terrains_ca_mp_armory_dummy.pbo",
+              "value": 10958617
+            },
+            {
+              "name": "cup_terrains_ca_plants.pbo",
+              "value": 430796666
+            },
+            {
+              "name": "cup_terrains_ca_plants2.pbo",
+              "value": 742631259
+            },
+            {
+              "name": "cup_terrains_ca_plants_e.pbo",
+              "value": 206016038
+            },
+            {
+              "name": "cup_terrains_ca_plants_e2.pbo",
+              "value": 485933307
+            },
+            {
+              "name": "cup_terrains_ca_plants_pmc.pbo",
+              "value": 82644259
+            },
+            {
+              "name": "cup_terrains_ca_roads.pbo",
+              "value": 80680756
+            },
+            {
+              "name": "cup_terrains_ca_roads2.pbo",
+              "value": 264866134
+            },
+            {
+              "name": "cup_terrains_ca_roads_e.pbo",
+              "value": 107381434
+            },
+            {
+              "name": "cup_terrains_ca_roads_pmc.pbo",
+              "value": 64981604
+            },
+            {
+              "name": "cup_terrains_ca_roads_rtm2.pbo",
+              "value": 13788
+            },
+            {
+              "name": "cup_terrains_ca_rocks.pbo",
+              "value": 45789060
+            },
+            {
+              "name": "cup_terrains_ca_rocks2.pbo",
+              "value": 58456161
+            },
+            {
+              "name": "cup_terrains_ca_rocks_e.pbo",
+              "value": 36750945
+            },
+            {
+              "name": "cup_terrains_ca_signs.pbo",
+              "value": 12249342
+            },
+            {
+              "name": "cup_terrains_ca_signs2.pbo",
+              "value": 49151390
+            },
+            {
+              "name": "cup_terrains_ca_signs_e.pbo",
+              "value": 18994043
+            },
+            {
+              "name": "cup_terrains_ca_sounds_c_dummy.pbo",
+              "value": 24659
+            },
+            {
+              "name": "cup_terrains_ca_sounds_dummy.pbo",
+              "value": 104617055
+            },
+            {
+              "name": "cup_terrains_ca_sounds_e_dummy.pbo",
+              "value": 3250898
+            },
+            {
+              "name": "cup_terrains_ca_structures.pbo",
+              "value": 1338117968
+            },
+            {
+              "name": "cup_terrains_ca_structures_c.pbo",
+              "value": 700561
+            },
+            {
+              "name": "cup_terrains_ca_structures_e.pbo",
+              "value": 1038220848
+            },
+            {
+              "name": "cup_terrains_ca_structures_e_c.pbo",
+              "value": 1108169
+            },
+            {
+              "name": "cup_terrains_ca_structures_pmc.pbo",
+              "value": 81124658
+            },
+            {
+              "name": "cup_terrains_ca_structures_pmc_c.pbo",
+              "value": 52537
+            },
+            {
+              "name": "cup_terrains_ca_tracked2_dummy.pbo",
+              "value": 27786574
+            },
+            {
+              "name": "cup_terrains_ca_tracked_dummy.pbo",
+              "value": 78756906
+            },
+            {
+              "name": "cup_terrains_ca_tracked_e_dummy.pbo",
+              "value": 50535486
+            },
+            {
+              "name": "cup_terrains_ca_uifonts.pbo",
+              "value": 20461119
+            },
+            {
+              "name": "cup_terrains_ca_ui_dummy.pbo",
+              "value": 1419682
+            },
+            {
+              "name": "cup_terrains_ca_water2_dummy.pbo",
+              "value": 109737405
+            },
+            {
+              "name": "cup_terrains_ca_water_dummy.pbo",
+              "value": 23350
+            },
+            {
+              "name": "cup_terrains_ca_weapons2_dummy.pbo",
+              "value": 2208673
+            },
+            {
+              "name": "cup_terrains_ca_weapons_dummy.pbo",
+              "value": 128802821
+            },
+            {
+              "name": "cup_terrains_ca_weapons_e_dummy.pbo",
+              "value": 23199483
+            },
+            {
+              "name": "cup_terrains_ca_weapons_pmc_dummy.pbo",
+              "value": 318230
+            },
+            {
+              "name": "cup_terrains_ca_wheeled2_dummy.pbo",
+              "value": 107682239
+            },
+            {
+              "name": "cup_terrains_ca_wheeled_dummy.pbo",
+              "value": 114764502
+            },
+            {
+              "name": "cup_terrains_ca_wheeled_e_dummy.pbo",
+              "value": 74450205
+            },
+            {
+              "name": "cup_terrains_compositions.pbo",
+              "value": 1814306
+            },
+            {
+              "name": "cup_terrains_core.pbo",
+              "value": 721916
+            },
+            {
+              "name": "cup_terrains_dbe1_dummy.pbo",
+              "value": 38330507
+            },
+            {
+              "name": "cup_terrains_dbe1_models_dbe1.pbo",
+              "value": 348994156
+            },
+            {
+              "name": "cup_terrains_dbe1_models_dbe1_c.pbo",
+              "value": 11722
+            },
+            {
+              "name": "cup_terrains_dummy.pbo",
+              "value": 25804
+            },
+            {
+              "name": "cup_terrains_editor_c.pbo",
+              "value": 35859872
+            },
+            {
+              "name": "cup_terrains_hsim_data_h_dummy.pbo",
+              "value": 19036
+            },
+            {
+              "name": "cup_terrains_hsim_languagemissions_h.pbo",
+              "value": 4830715
+            },
+            {
+              "name": "cup_terrains_hsim_language_h.pbo",
+              "value": 808718
+            },
+            {
+              "name": "cup_terrains_ibr_plants.pbo",
+              "value": 130832366
+            },
+            {
+              "name": "cup_terrains_music.pbo",
+              "value": 236590016
+            },
+            {
+              "name": "cup_terrains_plants.pbo",
+              "value": 1424047
+            },
+            {
+              "name": "cup_terrains_roadfix.pbo",
+              "value": 6141
+            },
+            {
+              "name": "cup_terrains_terrains_core.pbo",
+              "value": 27356
+            },
+            {
+              "name": "cup_terrains_weather.pbo",
+              "value": 553788
+            },
+            {
+              "name": "cup_terrains_winter_animals.pbo",
+              "value": 160890
+            },
+            {
+              "name": "cup_terrains_winter_objects.pbo",
+              "value": 99151984
+            },
+            {
+              "name": "cup_terrains_winter_plants.pbo",
+              "value": 519850204
+            },
+            {
+              "name": "cup_terrains_winter_roads.pbo",
+              "value": 83771868
+            },
+            {
+              "name": "cup_terrains_worlds.pbo",
+              "value": 520223377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_terrains_maps",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_terrains_maps_afghan.pbo",
+              "value": 188640609
+            },
+            {
+              "name": "cup_terrains_maps_afghan_c.pbo",
+              "value": 137616
+            },
+            {
+              "name": "cup_terrains_maps_bohemia.pbo",
+              "value": 147481547
+            },
+            {
+              "name": "cup_terrains_maps_bohemia_c.pbo",
+              "value": 85922
+            },
+            {
+              "name": "cup_terrains_maps_bootcamp_acr.pbo",
+              "value": 67522097
+            },
+            {
+              "name": "cup_terrains_maps_bootcamp_acr_c.pbo",
+              "value": 76517
+            },
+            {
+              "name": "cup_terrains_maps_chernarus.pbo",
+              "value": 393830143
+            },
+            {
+              "name": "cup_terrains_maps_chernarus_c.pbo",
+              "value": 276657
+            },
+            {
+              "name": "cup_terrains_maps_chernarus_summer.pbo",
+              "value": 370273707
+            },
+            {
+              "name": "cup_terrains_maps_chernarus_summer_c.pbo",
+              "value": 273509
+            },
+            {
+              "name": "cup_terrains_maps_chernarus_winter.pbo",
+              "value": 444976867
+            },
+            {
+              "name": "cup_terrains_maps_chernarus_winter_c.pbo",
+              "value": 270422
+            },
+            {
+              "name": "cup_terrains_maps_desert.pbo",
+              "value": 29163093
+            },
+            {
+              "name": "cup_terrains_maps_desert2.pbo",
+              "value": 104558221
+            },
+            {
+              "name": "cup_terrains_maps_desert2_c.pbo",
+              "value": 24418
+            },
+            {
+              "name": "cup_terrains_maps_desert_c.pbo",
+              "value": 20366
+            },
+            {
+              "name": "cup_terrains_maps_desert_e.pbo",
+              "value": 36450778
+            },
+            {
+              "name": "cup_terrains_maps_desert_e_c.pbo",
+              "value": 11654
+            },
+            {
+              "name": "cup_terrains_maps_provinggrounds_pmc.pbo",
+              "value": 43369773
+            },
+            {
+              "name": "cup_terrains_maps_provinggrounds_pmc_c.pbo",
+              "value": 16635
+            },
+            {
+              "name": "cup_terrains_maps_sara.pbo",
+              "value": 382505717
+            },
+            {
+              "name": "cup_terrains_maps_saralite.pbo",
+              "value": 92581119
+            },
+            {
+              "name": "cup_terrains_maps_saralite_c.pbo",
+              "value": 47312
+            },
+            {
+              "name": "cup_terrains_maps_sara_c.pbo",
+              "value": 87120
+            },
+            {
+              "name": "cup_terrains_maps_sara_dbe1.pbo",
+              "value": 374918002
+            },
+            {
+              "name": "cup_terrains_maps_sara_dbe1_c.pbo",
+              "value": 86083
+            },
+            {
+              "name": "cup_terrains_maps_shapur_baf.pbo",
+              "value": 40237329
+            },
+            {
+              "name": "cup_terrains_maps_shapur_baf_c.pbo",
+              "value": 20030
+            },
+            {
+              "name": "cup_terrains_maps_takistan.pbo",
+              "value": 437440411
+            },
+            {
+              "name": "cup_terrains_maps_takistan_c.pbo",
+              "value": 180616
+            },
+            {
+              "name": "cup_terrains_maps_utes.pbo",
+              "value": 45623450
+            },
+            {
+              "name": "cup_terrains_maps_utes_c.pbo",
+              "value": 82440
+            },
+            {
+              "name": "cup_terrains_maps_zargabad.pbo",
+              "value": 215315790
+            },
+            {
+              "name": "cup_terrains_maps_zargabad_c.pbo",
+              "value": 53466
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_terrains_maps_2.0",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_chernarus_s.pbo",
+              "value": 622795664
+            },
+            {
+              "name": "cup_chernarus_s_c.pbo",
+              "value": 332021
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_units",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_creatures_people_civil_chernarus.pbo",
+              "value": 280992946
+            },
+            {
+              "name": "cup_creatures_people_civil_russia.pbo",
+              "value": 485189
+            },
+            {
+              "name": "cup_creatures_people_civil_takistan.pbo",
+              "value": 12623234
+            },
+            {
+              "name": "cup_creatures_people_core.pbo",
+              "value": 11704307
+            },
+            {
+              "name": "cup_creatures_people_loadorder.pbo",
+              "value": 1371
+            },
+            {
+              "name": "cup_creatures_people_military_acr.pbo",
+              "value": 223047503
+            },
+            {
+              "name": "cup_creatures_people_military_baf.pbo",
+              "value": 376780090
+            },
+            {
+              "name": "cup_creatures_people_military_cdf.pbo",
+              "value": 50193350
+            },
+            {
+              "name": "cup_creatures_people_military_chedaki.pbo",
+              "value": 84046369
+            },
+            {
+              "name": "cup_creatures_people_military_delta.pbo",
+              "value": 23322674
+            },
+            {
+              "name": "cup_creatures_people_military_dummyinfantryset.pbo",
+              "value": 1317
+            },
+            {
+              "name": "cup_creatures_people_military_extra.pbo",
+              "value": 95061578
+            },
+            {
+              "name": "cup_creatures_people_military_germany.pbo",
+              "value": 305533601
+            },
+            {
+              "name": "cup_creatures_people_military_hil.pbo",
+              "value": 17166869
+            },
+            {
+              "name": "cup_creatures_people_military_napa.pbo",
+              "value": 71198509
+            },
+            {
+              "name": "cup_creatures_people_military_pmc.pbo",
+              "value": 398994066
+            },
+            {
+              "name": "cup_creatures_people_military_racs.pbo",
+              "value": 52354701
+            },
+            {
+              "name": "cup_creatures_people_military_russia.pbo",
+              "value": 796124765
+            },
+            {
+              "name": "cup_creatures_people_military_russiamodern.pbo",
+              "value": 829899358
+            },
+            {
+              "name": "cup_creatures_people_military_sla.pbo",
+              "value": 137192507
+            },
+            {
+              "name": "cup_creatures_people_military_taki.pbo",
+              "value": 52312592
+            },
+            {
+              "name": "cup_creatures_people_military_takiinsurgents.pbo",
+              "value": 176125675
+            },
+            {
+              "name": "cup_creatures_people_military_ukraine.pbo",
+              "value": 22961106
+            },
+            {
+              "name": "cup_creatures_people_military_usarmy.pbo",
+              "value": 932830962
+            },
+            {
+              "name": "cup_creatures_people_military_usmc.pbo",
+              "value": 725694124
+            },
+            {
+              "name": "cup_creatures_staticweapons.pbo",
+              "value": 784067
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_vehicles",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_airvehicles_412.pbo",
+              "value": 241005939
+            },
+            {
+              "name": "cup_airvehicles_a10.pbo",
+              "value": 48418377
+            },
+            {
+              "name": "cup_airvehicles_ah1z.pbo",
+              "value": 82403942
+            },
+            {
+              "name": "cup_airvehicles_ah6.pbo",
+              "value": 100394962
+            },
+            {
+              "name": "cup_airvehicles_ah64.pbo",
+              "value": 96863456
+            },
+            {
+              "name": "cup_airvehicles_ambientplanes.pbo",
+              "value": 28757638
+            },
+            {
+              "name": "cup_airvehicles_an2.pbo",
+              "value": 63937129
+            },
+            {
+              "name": "cup_airvehicles_av8b.pbo",
+              "value": 46108393
+            },
+            {
+              "name": "cup_airvehicles_aw159.pbo",
+              "value": 41481660
+            },
+            {
+              "name": "cup_airvehicles_c130j.pbo",
+              "value": 76187491
+            },
+            {
+              "name": "cup_airvehicles_cessna.pbo",
+              "value": 214413562
+            },
+            {
+              "name": "cup_airvehicles_ch47.pbo",
+              "value": 149877745
+            },
+            {
+              "name": "cup_airvehicles_ch53e.pbo",
+              "value": 65573447
+            },
+            {
+              "name": "cup_airvehicles_core.pbo",
+              "value": 14324894
+            },
+            {
+              "name": "cup_airvehicles_dc3.pbo",
+              "value": 127023786
+            },
+            {
+              "name": "cup_airvehicles_f35.pbo",
+              "value": 19857744
+            },
+            {
+              "name": "cup_airvehicles_hc3.pbo",
+              "value": 218683732
+            },
+            {
+              "name": "cup_airvehicles_jas39.pbo",
+              "value": 32375818
+            },
+            {
+              "name": "cup_airvehicles_ka50.pbo",
+              "value": 101054801
+            },
+            {
+              "name": "cup_airvehicles_ka52.pbo",
+              "value": 110214417
+            },
+            {
+              "name": "cup_airvehicles_ka60.pbo",
+              "value": 61680808
+            },
+            {
+              "name": "cup_airvehicles_l39.pbo",
+              "value": 50739331
+            },
+            {
+              "name": "cup_airvehicles_loadorder.pbo",
+              "value": 1324
+            },
+            {
+              "name": "cup_airvehicles_mh47e.pbo",
+              "value": 92351185
+            },
+            {
+              "name": "cup_airvehicles_mh60s.pbo",
+              "value": 22039084
+            },
+            {
+              "name": "cup_airvehicles_mi24.pbo",
+              "value": 767921711
+            },
+            {
+              "name": "cup_airvehicles_mi35.pbo",
+              "value": 375727538
+            },
+            {
+              "name": "cup_airvehicles_mi6.pbo",
+              "value": 89848226
+            },
+            {
+              "name": "cup_airvehicles_mi8.pbo",
+              "value": 434374615
+            },
+            {
+              "name": "cup_airvehicles_motorplane.pbo",
+              "value": 2923348
+            },
+            {
+              "name": "cup_airvehicles_mq9.pbo",
+              "value": 39985395
+            },
+            {
+              "name": "cup_airvehicles_mv22.pbo",
+              "value": 91371445
+            },
+            {
+              "name": "cup_airvehicles_pchela1t.pbo",
+              "value": 4142692
+            },
+            {
+              "name": "cup_airvehicles_sa330.pbo",
+              "value": 27342497
+            },
+            {
+              "name": "cup_airvehicles_staticline.pbo",
+              "value": 37744147
+            },
+            {
+              "name": "cup_airvehicles_su25.pbo",
+              "value": 70585035
+            },
+            {
+              "name": "cup_airvehicles_su34.pbo",
+              "value": 43727403
+            },
+            {
+              "name": "cup_airvehicles_uh1h.pbo",
+              "value": 189124841
+            },
+            {
+              "name": "cup_airvehicles_uh1y.pbo",
+              "value": 213761894
+            },
+            {
+              "name": "cup_airvehicles_uh60.pbo",
+              "value": 175129456
+            },
+            {
+              "name": "cup_trackedvehicles_2s6m.pbo",
+              "value": 32251884
+            },
+            {
+              "name": "cup_trackedvehicles_aav.pbo",
+              "value": 70931375
+            },
+            {
+              "name": "cup_trackedvehicles_bmp.pbo",
+              "value": 138516159
+            },
+            {
+              "name": "cup_trackedvehicles_bmp3.pbo",
+              "value": 40199081
+            },
+            {
+              "name": "cup_trackedvehicles_bradley.pbo",
+              "value": 52535131
+            },
+            {
+              "name": "cup_trackedvehicles_bulldog.pbo",
+              "value": 64181788
+            },
+            {
+              "name": "cup_trackedvehicles_challengerii.pbo",
+              "value": 206336912
+            },
+            {
+              "name": "cup_trackedvehicles_core.pbo",
+              "value": 17005
+            },
+            {
+              "name": "cup_trackedvehicles_fv510.pbo",
+              "value": 26069208
+            },
+            {
+              "name": "cup_trackedvehicles_lcac.pbo",
+              "value": 22415480
+            },
+            {
+              "name": "cup_trackedvehicles_leopard1.pbo",
+              "value": 147338809
+            },
+            {
+              "name": "cup_trackedvehicles_leopard2.pbo",
+              "value": 139255732
+            },
+            {
+              "name": "cup_trackedvehicles_loadorder.pbo",
+              "value": 1126
+            },
+            {
+              "name": "cup_trackedvehicles_m113.pbo",
+              "value": 89127169
+            },
+            {
+              "name": "cup_trackedvehicles_m1a2abrams.pbo",
+              "value": 47492416
+            },
+            {
+              "name": "cup_trackedvehicles_m1abrams.pbo",
+              "value": 781150553
+            },
+            {
+              "name": "cup_trackedvehicles_m1_abrams.pbo",
+              "value": 74697875
+            },
+            {
+              "name": "cup_trackedvehicles_m270.pbo",
+              "value": 102668416
+            },
+            {
+              "name": "cup_trackedvehicles_m60.pbo",
+              "value": 24771697
+            },
+            {
+              "name": "cup_trackedvehicles_mcv80.pbo",
+              "value": 39963767
+            },
+            {
+              "name": "cup_trackedvehicles_mtlb.pbo",
+              "value": 112074738
+            },
+            {
+              "name": "cup_trackedvehicles_newm113.pbo",
+              "value": 183730680
+            },
+            {
+              "name": "cup_trackedvehicles_sounds.pbo",
+              "value": 103809227
+            },
+            {
+              "name": "cup_trackedvehicles_t34.pbo",
+              "value": 40467724
+            },
+            {
+              "name": "cup_trackedvehicles_t55.pbo",
+              "value": 54993508
+            },
+            {
+              "name": "cup_trackedvehicles_t72.pbo",
+              "value": 78520416
+            },
+            {
+              "name": "cup_trackedvehicles_t90.pbo",
+              "value": 27930980
+            },
+            {
+              "name": "cup_trackedvehicles_t90m.pbo",
+              "value": 442693193
+            },
+            {
+              "name": "cup_trackedvehicles_zsu23.pbo",
+              "value": 13605595
+            },
+            {
+              "name": "cup_vehicles_cfggroups.pbo",
+              "value": 144492
+            },
+            {
+              "name": "cup_vehicles_core.pbo",
+              "value": 1312045
+            },
+            {
+              "name": "cup_vehicles_fastrope.pbo",
+              "value": 14274
+            },
+            {
+              "name": "cup_vehicles_loadorder.pbo",
+              "value": 513
+            },
+            {
+              "name": "cup_vehicles_manual.pbo",
+              "value": 8525
+            },
+            {
+              "name": "cup_vehicles_proxies.pbo",
+              "value": 32856019
+            },
+            {
+              "name": "cup_vehicles_towing.pbo",
+              "value": 16219
+            },
+            {
+              "name": "cup_watervehicles_core.pbo",
+              "value": 48283
+            },
+            {
+              "name": "cup_watervehicles_fishing_boat.pbo",
+              "value": 13584108
+            },
+            {
+              "name": "cup_watervehicles_fregata.pbo",
+              "value": 34894471
+            },
+            {
+              "name": "cup_watervehicles_lcu1600.pbo",
+              "value": 98141724
+            },
+            {
+              "name": "cup_watervehicles_lcvp.pbo",
+              "value": 10308853
+            },
+            {
+              "name": "cup_watervehicles_lhd.pbo",
+              "value": 208528565
+            },
+            {
+              "name": "cup_watervehicles_loadorder.pbo",
+              "value": 791
+            },
+            {
+              "name": "cup_watervehicles_lpd.pbo",
+              "value": 19849039
+            },
+            {
+              "name": "cup_watervehicles_mk10.pbo",
+              "value": 69297283
+            },
+            {
+              "name": "cup_watervehicles_pbx.pbo",
+              "value": 1136306
+            },
+            {
+              "name": "cup_watervehicles_rhib.pbo",
+              "value": 31006969
+            },
+            {
+              "name": "cup_watervehicles_seafox.pbo",
+              "value": 3009820
+            },
+            {
+              "name": "cup_watervehicles_type072.pbo",
+              "value": 119683999
+            },
+            {
+              "name": "cup_watervehicles_weapons.pbo",
+              "value": 13997493
+            },
+            {
+              "name": "cup_watervehicles_zodiac.pbo",
+              "value": 1184075
+            },
+            {
+              "name": "cup_watervehicles_zubr.pbo",
+              "value": 92176341
+            },
+            {
+              "name": "cup_wheeledvehicles_boxer.pbo",
+              "value": 314451189
+            },
+            {
+              "name": "cup_wheeledvehicles_brdm2.pbo",
+              "value": 31017421
+            },
+            {
+              "name": "cup_wheeledvehicles_btr40.pbo",
+              "value": 23968998
+            },
+            {
+              "name": "cup_wheeledvehicles_btr60.pbo",
+              "value": 181873422
+            },
+            {
+              "name": "cup_wheeledvehicles_btr80.pbo",
+              "value": 556941207
+            },
+            {
+              "name": "cup_wheeledvehicles_btr90.pbo",
+              "value": 63401493
+            },
+            {
+              "name": "cup_wheeledvehicles_buscity.pbo",
+              "value": 5519839
+            },
+            {
+              "name": "cup_wheeledvehicles_core.pbo",
+              "value": 3728
+            },
+            {
+              "name": "cup_wheeledvehicles_coyote.pbo",
+              "value": 23153320
+            },
+            {
+              "name": "cup_wheeledvehicles_datsun.pbo",
+              "value": 23461218
+            },
+            {
+              "name": "cup_wheeledvehicles_dingo.pbo",
+              "value": 72956724
+            },
+            {
+              "name": "cup_wheeledvehicles_hilux.pbo",
+              "value": 179558983
+            },
+            {
+              "name": "cup_wheeledvehicles_hmmwv.pbo",
+              "value": 206649825
+            },
+            {
+              "name": "cup_wheeledvehicles_ikarus.pbo",
+              "value": 24356302
+            },
+            {
+              "name": "cup_wheeledvehicles_jackal.pbo",
+              "value": 74893644
+            },
+            {
+              "name": "cup_wheeledvehicles_kamaz.pbo",
+              "value": 79579910
+            },
+            {
+              "name": "cup_wheeledvehicles_lada.pbo",
+              "value": 32619008
+            },
+            {
+              "name": "cup_wheeledvehicles_lav25.pbo",
+              "value": 78576994
+            },
+            {
+              "name": "cup_wheeledvehicles_loadorder.pbo",
+              "value": 1887
+            },
+            {
+              "name": "cup_wheeledvehicles_lr.pbo",
+              "value": 231678177
+            },
+            {
+              "name": "cup_wheeledvehicles_lsv_02.pbo",
+              "value": 11735466
+            },
+            {
+              "name": "cup_wheeledvehicles_m1030.pbo",
+              "value": 7159781
+            },
+            {
+              "name": "cup_wheeledvehicles_m1151.pbo",
+              "value": 352916114
+            },
+            {
+              "name": "cup_wheeledvehicles_m151.pbo",
+              "value": 46686332
+            },
+            {
+              "name": "cup_wheeledvehicles_mastiff.pbo",
+              "value": 9811728
+            },
+            {
+              "name": "cup_wheeledvehicles_matv.pbo",
+              "value": 6875344
+            },
+            {
+              "name": "cup_wheeledvehicles_mtvr.pbo",
+              "value": 259307796
+            },
+            {
+              "name": "cup_wheeledvehicles_newhmmwv.pbo",
+              "value": 394425050
+            },
+            {
+              "name": "cup_wheeledvehicles_newm1036.pbo",
+              "value": 67674238
+            },
+            {
+              "name": "cup_wheeledvehicles_newm1097.pbo",
+              "value": 359519130
+            },
+            {
+              "name": "cup_wheeledvehicles_newm998.pbo",
+              "value": 578832344
+            },
+            {
+              "name": "cup_wheeledvehicles_newsov.pbo",
+              "value": 95186318
+            },
+            {
+              "name": "cup_wheeledvehicles_octavia.pbo",
+              "value": 28119787
+            },
+            {
+              "name": "cup_wheeledvehicles_offroad_02.pbo",
+              "value": 6171619
+            },
+            {
+              "name": "cup_wheeledvehicles_pickup.pbo",
+              "value": 9438320
+            },
+            {
+              "name": "cup_wheeledvehicles_rg31.pbo",
+              "value": 216664575
+            },
+            {
+              "name": "cup_wheeledvehicles_ridgeback.pbo",
+              "value": 93583637
+            },
+            {
+              "name": "cup_wheeledvehicles_rm70.pbo",
+              "value": 40607677
+            },
+            {
+              "name": "cup_wheeledvehicles_s1203.pbo",
+              "value": 23128552
+            },
+            {
+              "name": "cup_wheeledvehicles_skoda.pbo",
+              "value": 19607464
+            },
+            {
+              "name": "cup_wheeledvehicles_strider.pbo",
+              "value": 7320116
+            },
+            {
+              "name": "cup_wheeledvehicles_stryker.pbo",
+              "value": 110693007
+            },
+            {
+              "name": "cup_wheeledvehicles_suv.pbo",
+              "value": 83677234
+            },
+            {
+              "name": "cup_wheeledvehicles_t810.pbo",
+              "value": 80649818
+            },
+            {
+              "name": "cup_wheeledvehicles_tigr.pbo",
+              "value": 430816303
+            },
+            {
+              "name": "cup_wheeledvehicles_towingtractor.pbo",
+              "value": 7113686
+            },
+            {
+              "name": "cup_wheeledvehicles_tractor.pbo",
+              "value": 13935554
+            },
+            {
+              "name": "cup_wheeledvehicles_tt650.pbo",
+              "value": 4233196
+            },
+            {
+              "name": "cup_wheeledvehicles_uaz.pbo",
+              "value": 125386796
+            },
+            {
+              "name": "cup_wheeledvehicles_uphmmwv.pbo",
+              "value": 90755248
+            },
+            {
+              "name": "cup_wheeledvehicles_ural.pbo",
+              "value": 95346643
+            },
+            {
+              "name": "cup_wheeledvehicles_v3s.pbo",
+              "value": 70204325
+            },
+            {
+              "name": "cup_wheeledvehicles_van02.pbo",
+              "value": 31108843
+            },
+            {
+              "name": "cup_wheeledvehicles_vodnik.pbo",
+              "value": 41469480
+            },
+            {
+              "name": "cup_wheeledvehicles_volha.pbo",
+              "value": 27243106
+            },
+            {
+              "name": "cup_wheeledvehicles_vwgolf.pbo",
+              "value": 46697278
+            },
+            {
+              "name": "cup_wheeledvehicles_wolfhound.pbo",
+              "value": 11020825
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@cup_weapons",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "cup_baseconfigs.pbo",
+              "value": 1947539
+            },
+            {
+              "name": "cup_basedata.pbo",
+              "value": 14758297
+            },
+            {
+              "name": "cup_weapons_aa12.pbo",
+              "value": 23687438
+            },
+            {
+              "name": "cup_weapons_acr.pbo",
+              "value": 27464310
+            },
+            {
+              "name": "cup_weapons_ak.pbo",
+              "value": 326114004
+            },
+            {
+              "name": "cup_weapons_ak12.pbo",
+              "value": 64163944
+            },
+            {
+              "name": "cup_weapons_ammoboxes.pbo",
+              "value": 59711392
+            },
+            {
+              "name": "cup_weapons_ammunition.pbo",
+              "value": 210740201
+            },
+            {
+              "name": "cup_weapons_apilas.pbo",
+              "value": 35323408
+            },
+            {
+              "name": "cup_weapons_as50.pbo",
+              "value": 23669480
+            },
+            {
+              "name": "cup_weapons_awm.pbo",
+              "value": 11542026
+            },
+            {
+              "name": "cup_weapons_backpacks.pbo",
+              "value": 178610989
+            },
+            {
+              "name": "cup_weapons_bizon.pbo",
+              "value": 50868420
+            },
+            {
+              "name": "cup_weapons_bren2.pbo",
+              "value": 90655170
+            },
+            {
+              "name": "cup_weapons_browning_hp.pbo",
+              "value": 15732425
+            },
+            {
+              "name": "cup_weapons_colt1911.pbo",
+              "value": 10216417
+            },
+            {
+              "name": "cup_weapons_compact.pbo",
+              "value": 8419328
+            },
+            {
+              "name": "cup_weapons_compatibility.pbo",
+              "value": 20346
+            },
+            {
+              "name": "cup_weapons_curator.pbo",
+              "value": 3408417
+            },
+            {
+              "name": "cup_weapons_cz75.pbo",
+              "value": 7002133
+            },
+            {
+              "name": "cup_weapons_cz750.pbo",
+              "value": 8049417
+            },
+            {
+              "name": "cup_weapons_cz805.pbo",
+              "value": 104379609
+            },
+            {
+              "name": "cup_weapons_deagle.pbo",
+              "value": 10811089
+            },
+            {
+              "name": "cup_weapons_duty.pbo",
+              "value": 7720396
+            },
+            {
+              "name": "cup_weapons_dynamicloadout.pbo",
+              "value": 115865968
+            },
+            {
+              "name": "cup_weapons_east_attachments.pbo",
+              "value": 165975590
+            },
+            {
+              "name": "cup_weapons_evo.pbo",
+              "value": 9263789
+            },
+            {
+              "name": "cup_weapons_famas.pbo",
+              "value": 102597494
+            },
+            {
+              "name": "cup_weapons_flaregun.pbo",
+              "value": 7039385
+            },
+            {
+              "name": "cup_weapons_fnfal.pbo",
+              "value": 190899154
+            },
+            {
+              "name": "cup_weapons_g3.pbo",
+              "value": 29582050
+            },
+            {
+              "name": "cup_weapons_g36.pbo",
+              "value": 175796758
+            },
+            {
+              "name": "cup_weapons_galil.pbo",
+              "value": 29629118
+            },
+            {
+              "name": "cup_weapons_glock17.pbo",
+              "value": 6135630
+            },
+            {
+              "name": "cup_weapons_grenadelaunchers.pbo",
+              "value": 28856307
+            },
+            {
+              "name": "cup_weapons_grenades.pbo",
+              "value": 882848
+            },
+            {
+              "name": "cup_weapons_groza.pbo",
+              "value": 36311232
+            },
+            {
+              "name": "cup_weapons_hk416.pbo",
+              "value": 65942378
+            },
+            {
+              "name": "cup_weapons_huntingrifle.pbo",
+              "value": 5661670
+            },
+            {
+              "name": "cup_weapons_igla.pbo",
+              "value": 18691616
+            },
+            {
+              "name": "cup_weapons_items.pbo",
+              "value": 18711930
+            },
+            {
+              "name": "cup_weapons_javelin.pbo",
+              "value": 5886966
+            },
+            {
+              "name": "cup_weapons_kozlice.pbo",
+              "value": 11051971
+            },
+            {
+              "name": "cup_weapons_ksvk.pbo",
+              "value": 7346260
+            },
+            {
+              "name": "cup_weapons_l129.pbo",
+              "value": 65579281
+            },
+            {
+              "name": "cup_weapons_l85.pbo",
+              "value": 118293099
+            },
+            {
+              "name": "cup_weapons_leeenfield.pbo",
+              "value": 16960533
+            },
+            {
+              "name": "cup_weapons_loadorder.pbo",
+              "value": 2978
+            },
+            {
+              "name": "cup_weapons_m1014.pbo",
+              "value": 27258222
+            },
+            {
+              "name": "cup_weapons_m107.pbo",
+              "value": 55751508
+            },
+            {
+              "name": "cup_weapons_m110.pbo",
+              "value": 28277816
+            },
+            {
+              "name": "cup_weapons_m136.pbo",
+              "value": 22619866
+            },
+            {
+              "name": "cup_weapons_m14.pbo",
+              "value": 10017327
+            },
+            {
+              "name": "cup_weapons_m14_dmr.pbo",
+              "value": 10269691
+            },
+            {
+              "name": "cup_weapons_m16.pbo",
+              "value": 359152521
+            },
+            {
+              "name": "cup_weapons_m17.pbo",
+              "value": 9842914
+            },
+            {
+              "name": "cup_weapons_m2010.pbo",
+              "value": 64306950
+            },
+            {
+              "name": "cup_weapons_m24.pbo",
+              "value": 18021564
+            },
+            {
+              "name": "cup_weapons_m240.pbo",
+              "value": 149392194
+            },
+            {
+              "name": "cup_weapons_m249.pbo",
+              "value": 134439324
+            },
+            {
+              "name": "cup_weapons_m3a1.pbo",
+              "value": 22480841
+            },
+            {
+              "name": "cup_weapons_m47.pbo",
+              "value": 11064166
+            },
+            {
+              "name": "cup_weapons_m60e4.pbo",
+              "value": 103205475
+            },
+            {
+              "name": "cup_weapons_m72a6.pbo",
+              "value": 14974368
+            },
+            {
+              "name": "cup_weapons_m9.pbo",
+              "value": 6146763
+            },
+            {
+              "name": "cup_weapons_maaws.pbo",
+              "value": 28795183
+            },
+            {
+              "name": "cup_weapons_mac10.pbo",
+              "value": 15734038
+            },
+            {
+              "name": "cup_weapons_makarov.pbo",
+              "value": 22335942
+            },
+            {
+              "name": "cup_weapons_manual.pbo",
+              "value": 3441921
+            },
+            {
+              "name": "cup_weapons_metis_at_13.pbo",
+              "value": 5708470
+            },
+            {
+              "name": "cup_weapons_mg3.pbo",
+              "value": 13934040
+            },
+            {
+              "name": "cup_weapons_microuzi.pbo",
+              "value": 11748082
+            },
+            {
+              "name": "cup_weapons_mk14_ebr.pbo",
+              "value": 12354859
+            },
+            {
+              "name": "cup_weapons_mk23.pbo",
+              "value": 18141420
+            },
+            {
+              "name": "cup_weapons_mk48.pbo",
+              "value": 95826739
+            },
+            {
+              "name": "cup_weapons_mosin.pbo",
+              "value": 29516238
+            },
+            {
+              "name": "cup_weapons_mp5.pbo",
+              "value": 106046454
+            },
+            {
+              "name": "cup_weapons_mp7.pbo",
+              "value": 15090874
+            },
+            {
+              "name": "cup_weapons_nlaw.pbo",
+              "value": 11938023
+            },
+            {
+              "name": "cup_weapons_nvg.pbo",
+              "value": 18131202
+            },
+            {
+              "name": "cup_weapons_p30.pbo",
+              "value": 15402610
+            },
+            {
+              "name": "cup_weapons_p90.pbo",
+              "value": 14457139
+            },
+            {
+              "name": "cup_weapons_panzerfaust.pbo",
+              "value": 7794870
+            },
+            {
+              "name": "cup_weapons_pb_6p9.pbo",
+              "value": 11213780
+            },
+            {
+              "name": "cup_weapons_phantom.pbo",
+              "value": 8182904
+            },
+            {
+              "name": "cup_weapons_pk.pbo",
+              "value": 145400730
+            },
+            {
+              "name": "cup_weapons_pods.pbo",
+              "value": 43900249
+            },
+            {
+              "name": "cup_weapons_put.pbo",
+              "value": 6278883
+            },
+            {
+              "name": "cup_weapons_remington.pbo",
+              "value": 13611695
+            },
+            {
+              "name": "cup_weapons_revolver.pbo",
+              "value": 6100211
+            },
+            {
+              "name": "cup_weapons_rpg18.pbo",
+              "value": 6048850
+            },
+            {
+              "name": "cup_weapons_rpg26.pbo",
+              "value": 12687896
+            },
+            {
+              "name": "cup_weapons_rpg7.pbo",
+              "value": 27010856
+            },
+            {
+              "name": "cup_weapons_rsass.pbo",
+              "value": 33069694
+            },
+            {
+              "name": "cup_weapons_sa58.pbo",
+              "value": 142082647
+            },
+            {
+              "name": "cup_weapons_sa61.pbo",
+              "value": 17183255
+            },
+            {
+              "name": "cup_weapons_saiga12k.pbo",
+              "value": 22070424
+            },
+            {
+              "name": "cup_weapons_scar.pbo",
+              "value": 51023645
+            },
+            {
+              "name": "cup_weapons_shield.pbo",
+              "value": 15919597
+            },
+            {
+              "name": "cup_weapons_sks.pbo",
+              "value": 9878167
+            },
+            {
+              "name": "cup_weapons_slamfire_shotgun.pbo",
+              "value": 7783843
+            },
+            {
+              "name": "cup_weapons_smaw.pbo",
+              "value": 15674797
+            },
+            {
+              "name": "cup_weapons_sounds.pbo",
+              "value": 496943317
+            },
+            {
+              "name": "cup_weapons_soundshaders.pbo",
+              "value": 3124243
+            },
+            {
+              "name": "cup_weapons_spas12.pbo",
+              "value": 12008043
+            },
+            {
+              "name": "cup_weapons_staticweapons.pbo",
+              "value": 373293732
+            },
+            {
+              "name": "cup_weapons_steyr.pbo",
+              "value": 20357586
+            },
+            {
+              "name": "cup_weapons_stinger.pbo",
+              "value": 5716878
+            },
+            {
+              "name": "cup_weapons_strela_2.pbo",
+              "value": 3928566
+            },
+            {
+              "name": "cup_weapons_svd.pbo",
+              "value": 41571399
+            },
+            {
+              "name": "cup_weapons_sw_model327.pbo",
+              "value": 11898771
+            },
+            {
+              "name": "cup_weapons_tec9.pbo",
+              "value": 13904273
+            },
+            {
+              "name": "cup_weapons_tt.pbo",
+              "value": 8137426
+            },
+            {
+              "name": "cup_weapons_uk59.pbo",
+              "value": 28584776
+            },
+            {
+              "name": "cup_weapons_uzi.pbo",
+              "value": 22340216
+            },
+            {
+              "name": "cup_weapons_vehicleweapons.pbo",
+              "value": 26364335
+            },
+            {
+              "name": "cup_weapons_vss.pbo",
+              "value": 109008200
+            },
+            {
+              "name": "cup_weapons_weaponscore.pbo",
+              "value": 14800161
+            },
+            {
+              "name": "cup_weapons_weaponsdata.pbo",
+              "value": 53069494
+            },
+            {
+              "name": "cup_weapons_west_attachments.pbo",
+              "value": 747573014
+            },
+            {
+              "name": "cup_weapons_x95.pbo",
+              "value": 23753459
+            },
+            {
+              "name": "cup_weapons_xm29.pbo",
+              "value": 125532267
+            },
+            {
+              "name": "cup_weapons_xm8.pbo",
+              "value": 251873933
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@dui",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "diwako_dui_buddy.pbo",
+              "value": 15265
+            },
+            {
+              "name": "diwako_dui_indicators.pbo",
+              "value": 57677
+            },
+            {
+              "name": "diwako_dui_linecompass.pbo",
+              "value": 98855
+            },
+            {
+              "name": "diwako_dui_main.pbo",
+              "value": 378257
+            },
+            {
+              "name": "diwako_dui_nametags.pbo",
+              "value": 73959
+            },
+            {
+              "name": "diwako_dui_radar.pbo",
+              "value": 1030849
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@em",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "babe_core.pbo",
+              "value": 19531
+            },
+            {
+              "name": "babe_em.pbo",
+              "value": 563764
+            },
+            {
+              "name": "babe_int.pbo",
+              "value": 17277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@emr",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "emr_main.pbo",
+              "value": 159746
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@fallujah",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "fallujah.pbo",
+              "value": 76777683
+            },
+            {
+              "name": "fallujah_hou.pbo",
+              "value": 138512964
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@fermanagh",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "oski_ire.pbo",
+              "value": 225974761
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@fpz",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "fpz_api.pbo",
+              "value": 21785
+            },
+            {
+              "name": "fpz_main.pbo",
+              "value": 1505
+            },
+            {
+              "name": "fpz_zombies.pbo",
+              "value": 29529
+            },
+            {
+              "name": "fpz_zones.pbo",
+              "value": 8030
+            },
+            {
+              "name": "rvg_zeds.pbo",
+              "value": 18507736
+            },
+            {
+              "name": "rvg_zed_faces.pbo",
+              "value": 92166423
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@gm_compat",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "gm_core.pbo",
+              "value": 57914171
+            },
+            {
+              "name": "gm_objects.pbo",
+              "value": 228337890
+            },
+            {
+              "name": "gm_plants.pbo",
+              "value": 170433147
+            },
+            {
+              "name": "gm_rivers.pbo",
+              "value": 7855959
+            },
+            {
+              "name": "gm_roads_euro_80.pbo",
+              "value": 481732322
+            },
+            {
+              "name": "gm_structures_euro_80.pbo",
+              "value": 1771792627
+            },
+            {
+              "name": "gm_structures_euro_80_winter.pbo",
+              "value": 718029576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@grad_trenches",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "grad_trenches_assets.pbo",
+              "value": 16124550
+            },
+            {
+              "name": "grad_trenches_functions.pbo",
+              "value": 253132
+            },
+            {
+              "name": "grad_trenches_main.pbo",
+              "value": 1410
+            },
+            {
+              "name": "grad_trenches_sounds.pbo",
+              "value": 252611
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@hazar_kot",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "mcn_hazarkot.pbo",
+              "value": 94173905
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@hellanmaa",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "hellanmaa.pbo",
+              "value": 265342154
+            },
+            {
+              "name": "hellanmaaw.pbo",
+              "value": 217921969
+            },
+            {
+              "name": "tem_hell_snowwalkingsounds.pbo",
+              "value": 488944
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@ihantala",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_ihantala.pbo",
+              "value": 148959920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@ihantala_winter",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_ihantalaw.pbo",
+              "value": 131082881
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@jsrs_soundmod",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "jsrs_soundmod_configuration.pbo",
+              "value": 3180196
+            },
+            {
+              "name": "jsrs_soundmod_soundfiles.pbo",
+              "value": 1476554985
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@jsrs_soundmod_cup_vehicles",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "jsrs_soundmod_cup_vehicles.pbo",
+              "value": 560661
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@jsrs_soundmod_cup_weapons",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "jsrs_soundmod_cup_weapons.pbo",
+              "value": 326069
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@kujari",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_kujari.pbo",
+              "value": 395903293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@lambs_danger",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "lambs_danger.pbo",
+              "value": 379999
+            },
+            {
+              "name": "lambs_eventhandlers.pbo",
+              "value": 14135
+            },
+            {
+              "name": "lambs_formations.pbo",
+              "value": 3236
+            },
+            {
+              "name": "lambs_main.pbo",
+              "value": 431608
+            },
+            {
+              "name": "lambs_range.pbo",
+              "value": 1095
+            },
+            {
+              "name": "lambs_wp.pbo",
+              "value": 488787
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@maksniemi",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "vt4.pbo",
+              "value": 180873398
+            },
+            {
+              "name": "vt4_layers.pbo",
+              "value": 308414522
+            },
+            {
+              "name": "vt4_map_data.pbo",
+              "value": 39829795
+            },
+            {
+              "name": "vt4_objects.pbo",
+              "value": 590353746
+            },
+            {
+              "name": "vt4_scenes.pbo",
+              "value": 22830326
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@milgp",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "milgp_data.pbo",
+              "value": 167735
+            },
+            {
+              "name": "milgp_headgear.pbo",
+              "value": 38726683
+            },
+            {
+              "name": "milgp_headgear_cfg.pbo",
+              "value": 183919
+            },
+            {
+              "name": "milgp_uniforms.pbo",
+              "value": 92649960
+            },
+            {
+              "name": "milgp_uniforms_cfg.pbo",
+              "value": 91107
+            },
+            {
+              "name": "milgp_vests.pbo",
+              "value": 94950991
+            },
+            {
+              "name": "milgp_vests_cfg.pbo",
+              "value": 164241
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@niarsenal",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "hlc_ace3_compat_core.pbo",
+              "value": 451
+            },
+            {
+              "name": "hlc_core.pbo",
+              "value": 777653067
+            },
+            {
+              "name": "hlc_cup_compat_core.pbo",
+              "value": 963
+            },
+            {
+              "name": "hlc_rhs_compat_core.pbo",
+              "value": 2650
+            },
+            {
+              "name": "hlc_wp_acr.pbo",
+              "value": 205785960
+            },
+            {
+              "name": "hlc_wp_ak.pbo",
+              "value": 674418258
+            },
+            {
+              "name": "hlc_wp_ar15.pbo",
+              "value": 565624157
+            },
+            {
+              "name": "hlc_wp_aug.pbo",
+              "value": 216956504
+            },
+            {
+              "name": "hlc_wp_fal.pbo",
+              "value": 257278678
+            },
+            {
+              "name": "hlc_wp_fhawc.pbo",
+              "value": 110672595
+            },
+            {
+              "name": "hlc_wp_fn3011.pbo",
+              "value": 193499935
+            },
+            {
+              "name": "hlc_wp_g3.pbo",
+              "value": 436614509
+            },
+            {
+              "name": "hlc_wp_g36.pbo",
+              "value": 539632611
+            },
+            {
+              "name": "hlc_wp_m14.pbo",
+              "value": 131292527
+            },
+            {
+              "name": "hlc_wp_m16a2.pbo",
+              "value": 1236724260
+            },
+            {
+              "name": "hlc_wp_m60e4.pbo",
+              "value": 46760353
+            },
+            {
+              "name": "hlc_wp_mg3.pbo",
+              "value": 198061242
+            },
+            {
+              "name": "hlc_wp_minigun.pbo",
+              "value": 34828239
+            },
+            {
+              "name": "hlc_wp_mp5.pbo",
+              "value": 258207710
+            },
+            {
+              "name": "hlc_wp_p226.pbo",
+              "value": 266726896
+            },
+            {
+              "name": "hlc_wp_saw.pbo",
+              "value": 378924939
+            },
+            {
+              "name": "hlc_wp_sigamt.pbo",
+              "value": 104157443
+            },
+            {
+              "name": "hlc_wp_springfield.pbo",
+              "value": 125674824
+            },
+            {
+              "name": "nia_wp_bren.pbo",
+              "value": 86033503
+            },
+            {
+              "name": "nia_wp_c96.pbo",
+              "value": 310182888
+            },
+            {
+              "name": "nia_wp_hk416.pbo",
+              "value": 455495634
+            },
+            {
+              "name": "nia_wp_johnsonlmg.pbo",
+              "value": 67171069
+            },
+            {
+              "name": "nia_wp_scar.pbo",
+              "value": 784294828
+            },
+            {
+              "name": "nia_wp_sg550.pbo",
+              "value": 458304305
+            },
+            {
+              "name": "nia_wp_xm8.pbo",
+              "value": 436512185
+            },
+            {
+              "name": "sp_fwa_effects.pbo",
+              "value": 6706
+            },
+            {
+              "name": "sp_fwa_sig510.pbo",
+              "value": 31301861
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@pca",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "a3_female_heads.pbo",
+              "value": 19990429
+            },
+            {
+              "name": "ascz_heads.pbo",
+              "value": 64439635
+            },
+            {
+              "name": "dzn_idf_mitznefet.pbo",
+              "value": 3132716
+            },
+            {
+              "name": "fm12_respirator.pbo",
+              "value": 10246500
+            },
+            {
+              "name": "map_saaremaa.pbo",
+              "value": 12693093
+            },
+            {
+              "name": "map_saaremaa_detail.pbo",
+              "value": 28251385
+            },
+            {
+              "name": "map_saaremaa_layers.pbo",
+              "value": 16044869
+            },
+            {
+              "name": "map_saaremaa_roads.pbo",
+              "value": 25198261
+            },
+            {
+              "name": "map_saaremaa_textures.pbo",
+              "value": 2788933
+            },
+            {
+              "name": "mozzie.pbo",
+              "value": 4051737
+            },
+            {
+              "name": "pca_ace_compat_gm.pbo",
+              "value": 501
+            },
+            {
+              "name": "pmk1_gas_mask.pbo",
+              "value": 12816390
+            },
+            {
+              "name": "ussr_guitar.pbo",
+              "value": 4309255
+            },
+            {
+              "name": "us_m40_masks_nbc.pbo",
+              "value": 55602402
+            },
+            {
+              "name": "xnooz_press.pbo",
+              "value": 13846348
+            },
+            {
+              "name": "zee_fsof.pbo",
+              "value": 120592290
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@pca_blended",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "amf_backpack.pbo",
+              "value": 70213416
+            },
+            {
+              "name": "amf_famas.pbo",
+              "value": 63932896
+            },
+            {
+              "name": "amf_headgear_01.pbo",
+              "value": 17199524
+            },
+            {
+              "name": "amf_headgear_02.pbo",
+              "value": 69118122
+            },
+            {
+              "name": "amf_uniforms.pbo",
+              "value": 147039635
+            },
+            {
+              "name": "amf_vests.pbo",
+              "value": 178774548
+            },
+            {
+              "name": "fwa_aa52.pbo",
+              "value": 15051696
+            },
+            {
+              "name": "fwa_ar10.pbo",
+              "value": 36570560
+            },
+            {
+              "name": "fwa_ar15.pbo",
+              "value": 115268163
+            },
+            {
+              "name": "fwa_ar18.pbo",
+              "value": 39898799
+            },
+            {
+              "name": "fwa_arms.pbo",
+              "value": 269451275
+            },
+            {
+              "name": "fwa_bipod.pbo",
+              "value": 4575266
+            },
+            {
+              "name": "fwa_bm59.pbo",
+              "value": 26979597
+            },
+            {
+              "name": "fwa_carlgustav.pbo",
+              "value": 16611490
+            },
+            {
+              "name": "fwa_effects.pbo",
+              "value": 8406
+            },
+            {
+              "name": "fwa_fal.pbo",
+              "value": 168658812
+            },
+            {
+              "name": "fwa_fn49.pbo",
+              "value": 16793823
+            },
+            {
+              "name": "fwa_m67.pbo",
+              "value": 27889915
+            },
+            {
+              "name": "fwa_mas.pbo",
+              "value": 18576123
+            },
+            {
+              "name": "fwa_mat.pbo",
+              "value": 11857980
+            },
+            {
+              "name": "fwa_mini14.pbo",
+              "value": 25523663
+            },
+            {
+              "name": "fwa_muzzle.pbo",
+              "value": 1203440
+            },
+            {
+              "name": "fwa_optics_ar.pbo",
+              "value": 19388323
+            },
+            {
+              "name": "fwa_riflegrenades.pbo",
+              "value": 18720618
+            },
+            {
+              "name": "fwa_sterling.pbo",
+              "value": 12466033
+            },
+            {
+              "name": "fwa_weapon_base.pbo",
+              "value": 26957
+            },
+            {
+              "name": "ptv_characters.pbo",
+              "value": 158307396
+            },
+            {
+              "name": "ptv_vehicles.pbo",
+              "value": 54592118
+            },
+            {
+              "name": "ptv_weapons.pbo",
+              "value": 275228438
+            },
+            {
+              "name": "sfp_ak5.pbo",
+              "value": 19734711
+            },
+            {
+              "name": "sfp_characters.pbo",
+              "value": 69973582
+            },
+            {
+              "name": "sps_gemtech_suppressors.pbo",
+              "value": 25650555
+            },
+            {
+              "name": "sps_hk_g3_pmag.pbo",
+              "value": 5773143
+            },
+            {
+              "name": "sps_kac_lamg.pbo",
+              "value": 97371221
+            },
+            {
+              "name": "sps_kac_lw_amg.pbo",
+              "value": 52568501
+            },
+            {
+              "name": "sps_oss_suppressors.pbo",
+              "value": 37476584
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@pca_gear",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "75thrangers_blended.pbo",
+              "value": 185335476
+            },
+            {
+              "name": "blended_dataholder.pbo",
+              "value": 42051246
+            },
+            {
+              "name": "blended_gear.pbo",
+              "value": 103036966
+            },
+            {
+              "name": "blended_rus_gear.pbo",
+              "value": 540321119
+            },
+            {
+              "name": "blended_rus_headgear.pbo",
+              "value": 175964211
+            },
+            {
+              "name": "blended_usa_backpack.pbo",
+              "value": 51277873
+            },
+            {
+              "name": "blended_usa_facewear.pbo",
+              "value": 4022113
+            },
+            {
+              "name": "blended_usa_headgear.pbo",
+              "value": 32957230
+            },
+            {
+              "name": "blended_usa_uniform.pbo",
+              "value": 63399518
+            },
+            {
+              "name": "blended_usa_vest.pbo",
+              "value": 46560032
+            },
+            {
+              "name": "blended_weapon.pbo",
+              "value": 5575569
+            },
+            {
+              "name": "bnae_colt.pbo",
+              "value": 22218147
+            },
+            {
+              "name": "bnae_core.pbo",
+              "value": 2165865
+            },
+            {
+              "name": "bnae_mk1.pbo",
+              "value": 28906907
+            },
+            {
+              "name": "bnae_rk95.pbo",
+              "value": 28582999
+            },
+            {
+              "name": "bw_gear.pbo",
+              "value": 19414256
+            },
+            {
+              "name": "bw_vests.pbo",
+              "value": 46221974
+            },
+            {
+              "name": "k1a_ris.pbo",
+              "value": 18328123
+            },
+            {
+              "name": "lbt.pbo",
+              "value": 117190578
+            },
+            {
+              "name": "mx_v2.pbo",
+              "value": 19151555
+            },
+            {
+              "name": "rksl_attachments_core.pbo",
+              "value": 5372941
+            },
+            {
+              "name": "rksl_eot552.pbo",
+              "value": 16062180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@pca_misc",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "pca_ai_tweaks.pbo",
+              "value": 52508
+            },
+            {
+              "name": "pca_armor_tweaks.pbo",
+              "value": 33761
+            },
+            {
+              "name": "pca_capacity_tweaks.pbo",
+              "value": 43176
+            },
+            {
+              "name": "pca_disablemissions.pbo",
+              "value": 2634
+            },
+            {
+              "name": "pca_extra_contents.pbo",
+              "value": 59591
+            },
+            {
+              "name": "pca_extra_faces.pbo",
+              "value": 1055863
+            },
+            {
+              "name": "pca_illuminations.pbo",
+              "value": 16755
+            },
+            {
+              "name": "pca_m136cs.pbo",
+              "value": 2934
+            },
+            {
+              "name": "pca_m72e10.pbo",
+              "value": 4938
+            },
+            {
+              "name": "pca_magazines.pbo",
+              "value": 2817243
+            },
+            {
+              "name": "pca_main.pbo",
+              "value": 4193
+            },
+            {
+              "name": "pca_mg3.pbo",
+              "value": 1024
+            },
+            {
+              "name": "pca_mk16.pbo",
+              "value": 22620
+            },
+            {
+              "name": "pca_negev_ng5.pbo",
+              "value": 2611
+            },
+            {
+              "name": "pca_norinco_m305.pbo",
+              "value": 4760
+            },
+            {
+              "name": "pca_no_40mm_bounce.pbo",
+              "value": 2391
+            },
+            {
+              "name": "pca_suture.pbo",
+              "value": 30641
+            },
+            {
+              "name": "pca_weapon_tweaks.pbo",
+              "value": 24114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@podagorsk",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "fdf_isle1_a.pbo",
+              "value": 361651465
+            },
+            {
+              "name": "fdf_isle1_a_c.pbo",
+              "value": 718396
+            },
+            {
+              "name": "fdf_obj_a.pbo",
+              "value": 4026023
+            }
+          ]
+        },
+        {
+          "name": "backup",
+          "children": [
+            {
+              "name": "fdf_isle1_a_c.pbo",
+              "value": 21226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@pulau",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "pulau.pbo",
+              "value": 415971162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rhsafrf",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "rhs_2s1.pbo",
+              "value": 247266941
+            },
+            {
+              "name": "rhs_2s3.pbo",
+              "value": 25550108
+            },
+            {
+              "name": "rhs_2s3_camo.pbo",
+              "value": 7393393
+            },
+            {
+              "name": "rhs_a2port_air.pbo",
+              "value": 419598485
+            },
+            {
+              "name": "rhs_a2port_armor.pbo",
+              "value": 55228890
+            },
+            {
+              "name": "rhs_a2port_armor_camo.pbo",
+              "value": 7528724
+            },
+            {
+              "name": "rhs_a2port_car.pbo",
+              "value": 120503928
+            },
+            {
+              "name": "rhs_a2port_car_camo.pbo",
+              "value": 2768340
+            },
+            {
+              "name": "rhs_a3retex.pbo",
+              "value": 7999084
+            },
+            {
+              "name": "rhs_accessory.pbo",
+              "value": 31934332
+            },
+            {
+              "name": "rhs_air.pbo",
+              "value": 293865591
+            },
+            {
+              "name": "rhs_airweapons.pbo",
+              "value": 171103794
+            },
+            {
+              "name": "rhs_aps.pbo",
+              "value": 315795
+            },
+            {
+              "name": "rhs_bmd.pbo",
+              "value": 61904586
+            },
+            {
+              "name": "rhs_bmd_34.pbo",
+              "value": 41414227
+            },
+            {
+              "name": "rhs_bmd_camo.pbo",
+              "value": 60888032
+            },
+            {
+              "name": "rhs_bmk_t.pbo",
+              "value": 8037995
+            },
+            {
+              "name": "rhs_bmp.pbo",
+              "value": 167193613
+            },
+            {
+              "name": "rhs_bmp3.pbo",
+              "value": 105881165
+            },
+            {
+              "name": "rhs_bmp3_camo.pbo",
+              "value": 23117898
+            },
+            {
+              "name": "rhs_bmp_camo.pbo",
+              "value": 10911949
+            },
+            {
+              "name": "rhs_btr70.pbo",
+              "value": 37871763
+            },
+            {
+              "name": "rhs_btr70_camo.pbo",
+              "value": 38080786
+            },
+            {
+              "name": "rhs_btr80.pbo",
+              "value": 73112333
+            },
+            {
+              "name": "rhs_btr80_camo.pbo",
+              "value": 90911819
+            },
+            {
+              "name": "rhs_c_2s1.pbo",
+              "value": 105794
+            },
+            {
+              "name": "rhs_c_2s3.pbo",
+              "value": 68737
+            },
+            {
+              "name": "rhs_c_a2port_air.pbo",
+              "value": 2181897
+            },
+            {
+              "name": "rhs_c_a2port_armor.pbo",
+              "value": 121275
+            },
+            {
+              "name": "rhs_c_a2port_car.pbo",
+              "value": 351236
+            },
+            {
+              "name": "rhs_c_a3retex.pbo",
+              "value": 15976
+            },
+            {
+              "name": "rhs_c_air.pbo",
+              "value": 6885464
+            },
+            {
+              "name": "rhs_c_airweapons.pbo",
+              "value": 414718
+            },
+            {
+              "name": "rhs_c_bmd.pbo",
+              "value": 146200
+            },
+            {
+              "name": "rhs_c_bmd_camo.pbo",
+              "value": 2615
+            },
+            {
+              "name": "rhs_c_bmk_t.pbo",
+              "value": 121023
+            },
+            {
+              "name": "rhs_c_bmp.pbo",
+              "value": 189383
+            },
+            {
+              "name": "rhs_c_bmp3.pbo",
+              "value": 233570
+            },
+            {
+              "name": "rhs_c_btr.pbo",
+              "value": 287523
+            },
+            {
+              "name": "rhs_c_btr70_camo.pbo",
+              "value": 2117
+            },
+            {
+              "name": "rhs_c_cars.pbo",
+              "value": 88029
+            },
+            {
+              "name": "rhs_c_cti_indep.pbo",
+              "value": 27967142
+            },
+            {
+              "name": "rhs_c_heavyweapons.pbo",
+              "value": 7288976
+            },
+            {
+              "name": "rhs_c_identity.pbo",
+              "value": 10565
+            },
+            {
+              "name": "rhs_c_kamaz.pbo",
+              "value": 697251
+            },
+            {
+              "name": "rhs_c_kraz255.pbo",
+              "value": 85928
+            },
+            {
+              "name": "rhs_c_mi28.pbo",
+              "value": 158043
+            },
+            {
+              "name": "rhs_c_mig29.pbo",
+              "value": 308707
+            },
+            {
+              "name": "rhs_c_pontoon.pbo",
+              "value": 12814
+            },
+            {
+              "name": "rhs_c_pts.pbo",
+              "value": 85081
+            },
+            {
+              "name": "rhs_c_radars.pbo",
+              "value": 507429
+            },
+            {
+              "name": "rhs_c_radio.pbo",
+              "value": 463886
+            },
+            {
+              "name": "rhs_c_rva.pbo",
+              "value": 393562
+            },
+            {
+              "name": "rhs_c_sprut.pbo",
+              "value": 139336
+            },
+            {
+              "name": "rhs_c_t14.pbo",
+              "value": 71023
+            },
+            {
+              "name": "rhs_c_t15.pbo",
+              "value": 72748
+            },
+            {
+              "name": "rhs_c_t72.pbo",
+              "value": 576592
+            },
+            {
+              "name": "rhs_c_tanks.pbo",
+              "value": 318147
+            },
+            {
+              "name": "rhs_c_troops.pbo",
+              "value": 1819610
+            },
+            {
+              "name": "rhs_c_trucks.pbo",
+              "value": 124381
+            },
+            {
+              "name": "rhs_c_vehiclesounds.pbo",
+              "value": 610240
+            },
+            {
+              "name": "rhs_c_weapons.pbo",
+              "value": 6996976
+            },
+            {
+              "name": "rhs_c_weaponsounds.pbo",
+              "value": 128285
+            },
+            {
+              "name": "rhs_c_zil131.pbo",
+              "value": 99080
+            },
+            {
+              "name": "rhs_decals.pbo",
+              "value": 19959517
+            },
+            {
+              "name": "rhs_editorpreviews.pbo",
+              "value": 23921548
+            },
+            {
+              "name": "rhs_gaz66.pbo",
+              "value": 99971898
+            },
+            {
+              "name": "rhs_gaz66_camo.pbo",
+              "value": 72496968
+            },
+            {
+              "name": "rhs_heavyweapons.pbo",
+              "value": 156969847
+            },
+            {
+              "name": "rhs_identity.pbo",
+              "value": 74480983
+            },
+            {
+              "name": "rhs_infantry.pbo",
+              "value": 260068763
+            },
+            {
+              "name": "rhs_infantry2.pbo",
+              "value": 287579163
+            },
+            {
+              "name": "rhs_infantry3.pbo",
+              "value": 662249164
+            },
+            {
+              "name": "rhs_inventoryicons.pbo",
+              "value": 184595661
+            },
+            {
+              "name": "rhs_kamaz.pbo",
+              "value": 52383473
+            },
+            {
+              "name": "rhs_kraz255.pbo",
+              "value": 35541553
+            },
+            {
+              "name": "rhs_main.pbo",
+              "value": 8192504
+            },
+            {
+              "name": "rhs_mi28.pbo",
+              "value": 81639066
+            },
+            {
+              "name": "rhs_mig29.pbo",
+              "value": 306768657
+            },
+            {
+              "name": "rhs_missions.pbo",
+              "value": 6315311
+            },
+            {
+              "name": "rhs_mtlb.pbo",
+              "value": 2959355
+            },
+            {
+              "name": "rhs_muzzleflash.pbo",
+              "value": 994423
+            },
+            {
+              "name": "rhs_optics.pbo",
+              "value": 29314354
+            },
+            {
+              "name": "rhs_pontoon.pbo",
+              "value": 24560416
+            },
+            {
+              "name": "rhs_props.pbo",
+              "value": 7321630
+            },
+            {
+              "name": "rhs_pts.pbo",
+              "value": 68878593
+            },
+            {
+              "name": "rhs_radars.pbo",
+              "value": 47585673
+            },
+            {
+              "name": "rhs_servicemenu.pbo",
+              "value": 48994
+            },
+            {
+              "name": "rhs_sounds.pbo",
+              "value": 289724714
+            },
+            {
+              "name": "rhs_sprut.pbo",
+              "value": 17937786
+            },
+            {
+              "name": "rhs_ss21.pbo",
+              "value": 72424339
+            },
+            {
+              "name": "rhs_ss21_camo.pbo",
+              "value": 6824405
+            },
+            {
+              "name": "rhs_s_radio.pbo",
+              "value": 281183866
+            },
+            {
+              "name": "rhs_s_weaponsounds.pbo",
+              "value": 156722233
+            },
+            {
+              "name": "rhs_t14.pbo",
+              "value": 104346053
+            },
+            {
+              "name": "rhs_t15.pbo",
+              "value": 34691787
+            },
+            {
+              "name": "rhs_t72.pbo",
+              "value": 213182055
+            },
+            {
+              "name": "rhs_t72_camo.pbo",
+              "value": 62799175
+            },
+            {
+              "name": "rhs_t80.pbo",
+              "value": 85438115
+            },
+            {
+              "name": "rhs_t80u.pbo",
+              "value": 58152276
+            },
+            {
+              "name": "rhs_t80u_camo.pbo",
+              "value": 12234738
+            },
+            {
+              "name": "rhs_tigr.pbo",
+              "value": 62892123
+            },
+            {
+              "name": "rhs_vehiclesounds.pbo",
+              "value": 85961045
+            },
+            {
+              "name": "rhs_vehicle_sounds.pbo",
+              "value": 41638342
+            },
+            {
+              "name": "rhs_weapons.pbo",
+              "value": 486090694
+            },
+            {
+              "name": "rhs_weapons2.pbo",
+              "value": 189281153
+            },
+            {
+              "name": "rhs_weapons3.pbo",
+              "value": 322775384
+            },
+            {
+              "name": "rhs_weapon_sounds.pbo",
+              "value": 196584959
+            },
+            {
+              "name": "rhs_zil131.pbo",
+              "value": 49193394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rhsgref",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "rhsgref_a29.pbo",
+              "value": 161960450
+            },
+            {
+              "name": "rhsgref_a2port_armor.pbo",
+              "value": 50935035
+            },
+            {
+              "name": "rhsgref_air.pbo",
+              "value": 217853231
+            },
+            {
+              "name": "rhsgref_airweapons.pbo",
+              "value": 20684981
+            },
+            {
+              "name": "rhsgref_canoe.pbo",
+              "value": 31726243
+            },
+            {
+              "name": "rhsgref_c_a29.pbo",
+              "value": 8321895
+            },
+            {
+              "name": "rhsgref_c_a2port_armor.pbo",
+              "value": 988959
+            },
+            {
+              "name": "rhsgref_c_air.pbo",
+              "value": 318336
+            },
+            {
+              "name": "rhsgref_c_airweapons.pbo",
+              "value": 32196
+            },
+            {
+              "name": "rhsgref_c_canoe.pbo",
+              "value": 12231
+            },
+            {
+              "name": "rhsgref_c_radar.pbo",
+              "value": 1657
+            },
+            {
+              "name": "rhsgref_c_radio.pbo",
+              "value": 361483
+            },
+            {
+              "name": "rhsgref_c_tohport_air.pbo",
+              "value": 43933
+            },
+            {
+              "name": "rhsgref_c_troops.pbo",
+              "value": 1206496
+            },
+            {
+              "name": "rhsgref_c_vehicles_ret.pbo",
+              "value": 373160
+            },
+            {
+              "name": "rhsgref_c_weapons.pbo",
+              "value": 3782328
+            },
+            {
+              "name": "rhsgref_editorpreviews.pbo",
+              "value": 18802348
+            },
+            {
+              "name": "rhsgref_infantry.pbo",
+              "value": 421011980
+            },
+            {
+              "name": "rhsgref_inventoryicons.pbo",
+              "value": 60993736
+            },
+            {
+              "name": "rhsgref_main.pbo",
+              "value": 9361906
+            },
+            {
+              "name": "rhsgref_muzzleflash.pbo",
+              "value": 445534
+            },
+            {
+              "name": "rhsgref_radar.pbo",
+              "value": 10415886
+            },
+            {
+              "name": "rhsgref_sounds.pbo",
+              "value": 17406029
+            },
+            {
+              "name": "rhsgref_s_radio.pbo",
+              "value": 100799944
+            },
+            {
+              "name": "rhsgref_tohport_air.pbo",
+              "value": 47018718
+            },
+            {
+              "name": "rhsgref_vehicles_ret.pbo",
+              "value": 400801033
+            },
+            {
+              "name": "rhsgref_weapons.pbo",
+              "value": 387649670
+            },
+            {
+              "name": "rhsgref_weapons2.pbo",
+              "value": 393536558
+            },
+            {
+              "name": "rhsgref_weapons3.pbo",
+              "value": 317923114
+            },
+            {
+              "name": "rhsgref_weapon_sounds.pbo",
+              "value": 207445830
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rhspkl",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "rhspkl_art.pbo",
+              "value": 251981484
+            },
+            {
+              "name": "rhspkl_cords.pbo",
+              "value": 215471270
+            },
+            {
+              "name": "rhspkl_data.pbo",
+              "value": 157703951
+            },
+            {
+              "name": "rhspkl_forts.pbo",
+              "value": 1561129
+            },
+            {
+              "name": "rhspkl_huts.pbo",
+              "value": 20394715
+            },
+            {
+              "name": "rhspkl_layer1.pbo",
+              "value": 1000989509
+            },
+            {
+              "name": "rhspkl_layer2.pbo",
+              "value": 1001057981
+            },
+            {
+              "name": "rhspkl_layer3.pbo",
+              "value": 247075317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rhssaf",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "rhssaf_backpacks.pbo",
+              "value": 11537782
+            },
+            {
+              "name": "rhssaf_binoculars.pbo",
+              "value": 9651295
+            },
+            {
+              "name": "rhssaf_c_gear.pbo",
+              "value": 2094044
+            },
+            {
+              "name": "rhssaf_c_troops.pbo",
+              "value": 533780
+            },
+            {
+              "name": "rhssaf_c_vehicles.pbo",
+              "value": 81258
+            },
+            {
+              "name": "rhssaf_c_weapons.pbo",
+              "value": 1818474
+            },
+            {
+              "name": "rhssaf_editorpreviews.pbo",
+              "value": 4209511
+            },
+            {
+              "name": "rhssaf_inventoryicons.pbo",
+              "value": 36307054
+            },
+            {
+              "name": "rhssaf_main.pbo",
+              "value": 651029
+            },
+            {
+              "name": "rhssaf_muzzleflash.pbo",
+              "value": 136186
+            },
+            {
+              "name": "rhssaf_m_explosives.pbo",
+              "value": 6371109
+            },
+            {
+              "name": "rhssaf_m_headgear_beret.pbo",
+              "value": 325084
+            },
+            {
+              "name": "rhssaf_m_headgear_m59.pbo",
+              "value": 216753
+            },
+            {
+              "name": "rhssaf_m_headgear_m97.pbo",
+              "value": 1033027
+            },
+            {
+              "name": "rhssaf_m_headgear_veil.pbo",
+              "value": 140781
+            },
+            {
+              "name": "rhssaf_m_uniform_m10.pbo",
+              "value": 2128191
+            },
+            {
+              "name": "rhssaf_m_uniform_m93.pbo",
+              "value": 1407398
+            },
+            {
+              "name": "rhssaf_m_uniform_mdt.pbo",
+              "value": 2981584
+            },
+            {
+              "name": "rhssaf_m_uniform_pilot.pbo",
+              "value": 1828732
+            },
+            {
+              "name": "rhssaf_m_vest_m12.pbo",
+              "value": 1392831
+            },
+            {
+              "name": "rhssaf_m_vest_m98.pbo",
+              "value": 1215961
+            },
+            {
+              "name": "rhssaf_m_vest_m99.pbo",
+              "value": 2839721
+            },
+            {
+              "name": "rhssaf_m_weapon_cz99.pbo",
+              "value": 994886
+            },
+            {
+              "name": "rhssaf_m_weapon_g36.pbo",
+              "value": 11436412
+            },
+            {
+              "name": "rhssaf_m_weapon_m21.pbo",
+              "value": 7605912
+            },
+            {
+              "name": "rhssaf_m_weapon_m70.pbo",
+              "value": 5100522
+            },
+            {
+              "name": "rhssaf_m_weapon_m70c.pbo",
+              "value": 762210
+            },
+            {
+              "name": "rhssaf_m_weapon_m76.pbo",
+              "value": 697244
+            },
+            {
+              "name": "rhssaf_m_weapon_m80.pbo",
+              "value": 1827970
+            },
+            {
+              "name": "rhssaf_m_weapon_m84.pbo",
+              "value": 577072
+            },
+            {
+              "name": "rhssaf_m_weapon_m92.pbo",
+              "value": 1563142
+            },
+            {
+              "name": "rhssaf_m_weapon_scar.pbo",
+              "value": 21868285
+            },
+            {
+              "name": "rhssaf_m_weapon_scorpion.pbo",
+              "value": 1525505
+            },
+            {
+              "name": "rhssaf_sounds.pbo",
+              "value": 206287017
+            },
+            {
+              "name": "rhssaf_t_explosives.pbo",
+              "value": 18467018
+            },
+            {
+              "name": "rhssaf_t_gear_a3.pbo",
+              "value": 5750229
+            },
+            {
+              "name": "rhssaf_t_headgear_beret.pbo",
+              "value": 22264756
+            },
+            {
+              "name": "rhssaf_t_headgear_m59.pbo",
+              "value": 14938045
+            },
+            {
+              "name": "rhssaf_t_headgear_m97.pbo",
+              "value": 40283916
+            },
+            {
+              "name": "rhssaf_t_headgear_ret.pbo",
+              "value": 1851087
+            },
+            {
+              "name": "rhssaf_t_headgear_veil.pbo",
+              "value": 5344147
+            },
+            {
+              "name": "rhssaf_t_uniform_m10.pbo",
+              "value": 26092920
+            },
+            {
+              "name": "rhssaf_t_uniform_m93.pbo",
+              "value": 13252701
+            },
+            {
+              "name": "rhssaf_t_uniform_mdt.pbo",
+              "value": 25117979
+            },
+            {
+              "name": "rhssaf_t_uniform_pilot.pbo",
+              "value": 10764908
+            },
+            {
+              "name": "rhssaf_t_vehicle_ret.pbo",
+              "value": 58832044
+            },
+            {
+              "name": "rhssaf_t_vest_m12.pbo",
+              "value": 10965785
+            },
+            {
+              "name": "rhssaf_t_vest_m98.pbo",
+              "value": 16571281
+            },
+            {
+              "name": "rhssaf_t_vest_m99.pbo",
+              "value": 13108046
+            },
+            {
+              "name": "rhssaf_t_weapon_cz99.pbo",
+              "value": 18657122
+            },
+            {
+              "name": "rhssaf_t_weapon_g36.pbo",
+              "value": 53139967
+            },
+            {
+              "name": "rhssaf_t_weapon_m21.pbo",
+              "value": 10520613
+            },
+            {
+              "name": "rhssaf_t_weapon_m70.pbo",
+              "value": 28525649
+            },
+            {
+              "name": "rhssaf_t_weapon_m70c.pbo",
+              "value": 9738555
+            },
+            {
+              "name": "rhssaf_t_weapon_m76.pbo",
+              "value": 9280292
+            },
+            {
+              "name": "rhssaf_t_weapon_m80.pbo",
+              "value": 19605561
+            },
+            {
+              "name": "rhssaf_t_weapon_m84.pbo",
+              "value": 12376749
+            },
+            {
+              "name": "rhssaf_t_weapon_m92.pbo",
+              "value": 12875143
+            },
+            {
+              "name": "rhssaf_t_weapon_scar.pbo",
+              "value": 36158296
+            },
+            {
+              "name": "rhssaf_t_weapon_scorpion.pbo",
+              "value": 12881835
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rhsusaf",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "rhsusf_a2port_air.pbo",
+              "value": 219813473
+            },
+            {
+              "name": "rhsusf_a2port_air2.pbo",
+              "value": 88604489
+            },
+            {
+              "name": "rhsusf_a2port_armor.pbo",
+              "value": 132142751
+            },
+            {
+              "name": "rhsusf_a2port_car.pbo",
+              "value": 23091909
+            },
+            {
+              "name": "rhsusf_ah64.pbo",
+              "value": 73432815
+            },
+            {
+              "name": "rhsusf_airweapons.pbo",
+              "value": 82955592
+            },
+            {
+              "name": "rhsusf_caiman.pbo",
+              "value": 183562658
+            },
+            {
+              "name": "rhsusf_cars.pbo",
+              "value": 552733
+            },
+            {
+              "name": "rhsusf_ch53.pbo",
+              "value": 69598503
+            },
+            {
+              "name": "rhsusf_commskit.pbo",
+              "value": 6733042
+            },
+            {
+              "name": "rhsusf_cougar.pbo",
+              "value": 61913613
+            },
+            {
+              "name": "rhsusf_c_a2port_air.pbo",
+              "value": 4448496
+            },
+            {
+              "name": "rhsusf_c_a2port_armor.pbo",
+              "value": 261917
+            },
+            {
+              "name": "rhsusf_c_a2port_car.pbo",
+              "value": 32901
+            },
+            {
+              "name": "rhsusf_c_ah64.pbo",
+              "value": 354
+            },
+            {
+              "name": "rhsusf_c_airweapons.pbo",
+              "value": 312542
+            },
+            {
+              "name": "rhsusf_c_caiman.pbo",
+              "value": 82020
+            },
+            {
+              "name": "rhsusf_c_ch53.pbo",
+              "value": 315060
+            },
+            {
+              "name": "rhsusf_c_commskit.pbo",
+              "value": 3512
+            },
+            {
+              "name": "rhsusf_c_cougar.pbo",
+              "value": 1609646
+            },
+            {
+              "name": "rhsusf_c_f22.pbo",
+              "value": 373762
+            },
+            {
+              "name": "rhsusf_c_fmtv.pbo",
+              "value": 821836
+            },
+            {
+              "name": "rhsusf_c_heavyweapons.pbo",
+              "value": 1407170
+            },
+            {
+              "name": "rhsusf_c_hemtt_a2.pbo",
+              "value": 357
+            },
+            {
+              "name": "rhsusf_c_hemtt_a4.pbo",
+              "value": 240265
+            },
+            {
+              "name": "rhsusf_c_himars.pbo",
+              "value": 35842
+            },
+            {
+              "name": "rhsusf_c_hmmwv.pbo",
+              "value": 287085
+            },
+            {
+              "name": "rhsusf_c_identity.pbo",
+              "value": 3640
+            },
+            {
+              "name": "rhsusf_c_m109.pbo",
+              "value": 30756
+            },
+            {
+              "name": "rhsusf_c_m1117.pbo",
+              "value": 88420
+            },
+            {
+              "name": "rhsusf_c_m113.pbo",
+              "value": 152687
+            },
+            {
+              "name": "rhsusf_c_m11xx.pbo",
+              "value": 415833
+            },
+            {
+              "name": "rhsusf_c_m1a1.pbo",
+              "value": 2543498
+            },
+            {
+              "name": "rhsusf_c_m1a2.pbo",
+              "value": 139104
+            },
+            {
+              "name": "rhsusf_c_m252.pbo",
+              "value": 4059
+            },
+            {
+              "name": "rhsusf_c_markvsoc.pbo",
+              "value": 204083
+            },
+            {
+              "name": "rhsusf_c_matv.pbo",
+              "value": 340417
+            },
+            {
+              "name": "rhsusf_c_melb.pbo",
+              "value": 167332
+            },
+            {
+              "name": "rhsusf_c_mrzr.pbo",
+              "value": 101228
+            },
+            {
+              "name": "rhsusf_c_mtvr.pbo",
+              "value": 13491
+            },
+            {
+              "name": "rhsusf_c_props.pbo",
+              "value": 5047
+            },
+            {
+              "name": "rhsusf_c_radio.pbo",
+              "value": 1514709
+            },
+            {
+              "name": "rhsusf_c_rg33.pbo",
+              "value": 59371
+            },
+            {
+              "name": "rhsusf_c_rg33l.pbo",
+              "value": 83305
+            },
+            {
+              "name": "rhsusf_c_socomauv.pbo",
+              "value": 71172
+            },
+            {
+              "name": "rhsusf_c_statics.pbo",
+              "value": 48701
+            },
+            {
+              "name": "rhsusf_c_stryker.pbo",
+              "value": 890670
+            },
+            {
+              "name": "rhsusf_c_troops.pbo",
+              "value": 1728904
+            },
+            {
+              "name": "rhsusf_c_uav.pbo",
+              "value": 227795
+            },
+            {
+              "name": "rhsusf_c_vehiclesounds.pbo",
+              "value": 59789
+            },
+            {
+              "name": "rhsusf_c_weapons.pbo",
+              "value": 7147316
+            },
+            {
+              "name": "rhsusf_c_weaponsounds.pbo",
+              "value": 159018
+            },
+            {
+              "name": "rhsusf_decals.pbo",
+              "value": 11400061
+            },
+            {
+              "name": "rhsusf_dve.pbo",
+              "value": 1866176
+            },
+            {
+              "name": "rhsusf_editorpreviews.pbo",
+              "value": 22524975
+            },
+            {
+              "name": "rhsusf_f22.pbo",
+              "value": 49749278
+            },
+            {
+              "name": "rhsusf_fmtv.pbo",
+              "value": 244911840
+            },
+            {
+              "name": "rhsusf_heavyweapons.pbo",
+              "value": 44791102
+            },
+            {
+              "name": "rhsusf_hemtt_a2.pbo",
+              "value": 337
+            },
+            {
+              "name": "rhsusf_hemtt_a4.pbo",
+              "value": 109999262
+            },
+            {
+              "name": "rhsusf_himars.pbo",
+              "value": 85042042
+            },
+            {
+              "name": "rhsusf_hmmwv.pbo",
+              "value": 176979027
+            },
+            {
+              "name": "rhsusf_infantry.pbo",
+              "value": 562825555
+            },
+            {
+              "name": "rhsusf_infantry2.pbo",
+              "value": 392598643
+            },
+            {
+              "name": "rhsusf_infantry3.pbo",
+              "value": 21944176
+            },
+            {
+              "name": "rhsusf_inventoryicons.pbo",
+              "value": 195720174
+            },
+            {
+              "name": "rhsusf_m109.pbo",
+              "value": 43193623
+            },
+            {
+              "name": "rhsusf_m1117.pbo",
+              "value": 68050279
+            },
+            {
+              "name": "rhsusf_m113.pbo",
+              "value": 236902359
+            },
+            {
+              "name": "rhsusf_m1165.pbo",
+              "value": 151484440
+            },
+            {
+              "name": "rhsusf_m11xx.pbo",
+              "value": 304966925
+            },
+            {
+              "name": "rhsusf_m1a1.pbo",
+              "value": 170097903
+            },
+            {
+              "name": "rhsusf_m1a2.pbo",
+              "value": 169155659
+            },
+            {
+              "name": "rhsusf_m252.pbo",
+              "value": 50703831
+            },
+            {
+              "name": "rhsusf_main.pbo",
+              "value": 4892424
+            },
+            {
+              "name": "rhsusf_markvsoc.pbo",
+              "value": 121747188
+            },
+            {
+              "name": "rhsusf_matv.pbo",
+              "value": 302579103
+            },
+            {
+              "name": "rhsusf_melb.pbo",
+              "value": 80900446
+            },
+            {
+              "name": "rhsusf_mrzr.pbo",
+              "value": 97818099
+            },
+            {
+              "name": "rhsusf_mtvr.pbo",
+              "value": 1584703
+            },
+            {
+              "name": "rhsusf_mtvr_tx.pbo",
+              "value": 48659767
+            },
+            {
+              "name": "rhsusf_muzzleflash.pbo",
+              "value": 986155
+            },
+            {
+              "name": "rhsusf_optics.pbo",
+              "value": 6223722
+            },
+            {
+              "name": "rhsusf_props.pbo",
+              "value": 6425076
+            },
+            {
+              "name": "rhsusf_radio.pbo",
+              "value": 35909871
+            },
+            {
+              "name": "rhsusf_rg33.pbo",
+              "value": 73856398
+            },
+            {
+              "name": "rhsusf_rg33l.pbo",
+              "value": 141018607
+            },
+            {
+              "name": "rhsusf_scopes.pbo",
+              "value": 138979273
+            },
+            {
+              "name": "rhsusf_socomauv.pbo",
+              "value": 85461604
+            },
+            {
+              "name": "rhsusf_sounds.pbo",
+              "value": 329963371
+            },
+            {
+              "name": "rhsusf_stryker.pbo",
+              "value": 558798912
+            },
+            {
+              "name": "rhsusf_s_radio.pbo",
+              "value": 16081240
+            },
+            {
+              "name": "rhsusf_s_vehiclesounds.pbo",
+              "value": 19592027
+            },
+            {
+              "name": "rhsusf_s_weaponsounds.pbo",
+              "value": 212173458
+            },
+            {
+              "name": "rhsusf_uav.pbo",
+              "value": 7397040
+            },
+            {
+              "name": "rhsusf_weapons.pbo",
+              "value": 477184562
+            },
+            {
+              "name": "rhsusf_weapons2.pbo",
+              "value": 650393317
+            },
+            {
+              "name": "rhsusf_weapons3.pbo",
+              "value": 241554988
+            },
+            {
+              "name": "rhsusf_weapon_sounds.pbo",
+              "value": 200035690
+            },
+            {
+              "name": "rhsusf_xmas.pbo",
+              "value": 6457471
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@rosche",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "hag_objects.pbo",
+              "value": 44557790
+            },
+            {
+              "name": "wl_buildings.pbo",
+              "value": 260358499
+            },
+            {
+              "name": "wl_rosche.pbo",
+              "value": 719595148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@ruha",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "ruha.pbo",
+              "value": 314696681
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@sad_uni",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "sad_uni.pbo",
+              "value": 12745423
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@sahatra",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "juju_sahartra_struc.pbo",
+              "value": 1221413230
+            },
+            {
+              "name": "juju_sahatra.pbo",
+              "value": 749649984
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@sennoe",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "sennoe.pbo",
+              "value": 171160401
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@sma",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "scar_arma3.pbo",
+              "value": 78423249
+            },
+            {
+              "name": "sma_a3.pbo",
+              "value": 33852111
+            },
+            {
+              "name": "sma_aac_mpw.pbo",
+              "value": 32770122
+            },
+            {
+              "name": "sma_acr.pbo",
+              "value": 63390840
+            },
+            {
+              "name": "sma_aimpoint.pbo",
+              "value": 9093163
+            },
+            {
+              "name": "sma_barska.pbo",
+              "value": 5695507
+            },
+            {
+              "name": "sma_bipod.pbo",
+              "value": 1845571
+            },
+            {
+              "name": "sma_cmore.pbo",
+              "value": 14369963
+            },
+            {
+              "name": "sma_eclan_c.pbo",
+              "value": 25211
+            },
+            {
+              "name": "sma_elcan.pbo",
+              "value": 73525657
+            },
+            {
+              "name": "sma_elcan_altzoom_c.pbo",
+              "value": 25878
+            },
+            {
+              "name": "sma_eotech_33.pbo",
+              "value": 25713002
+            },
+            {
+              "name": "sma_eotech_552.pbo",
+              "value": 36589499
+            },
+            {
+              "name": "sma_flashhider.pbo",
+              "value": 2037158
+            },
+            {
+              "name": "sma_gemtech_one.pbo",
+              "value": 8332647
+            },
+            {
+              "name": "sma_hk416.pbo",
+              "value": 94077438
+            },
+            {
+              "name": "sma_hk417.pbo",
+              "value": 20146940
+            },
+            {
+              "name": "sma_l85ris.pbo",
+              "value": 26952491
+            },
+            {
+              "name": "sma_m4.pbo",
+              "value": 76473201
+            },
+            {
+              "name": "sma_micro_t2.pbo",
+              "value": 12983555
+            },
+            {
+              "name": "sma_minimi_mk3.pbo",
+              "value": 42160128
+            },
+            {
+              "name": "sma_mk18.pbo",
+              "value": 72016104
+            },
+            {
+              "name": "sma_peq15.pbo",
+              "value": 42978870
+            },
+            {
+              "name": "sma_railguard.pbo",
+              "value": 538429
+            },
+            {
+              "name": "sma_recoil.pbo",
+              "value": 4166
+            },
+            {
+              "name": "sma_rotex.pbo",
+              "value": 3456481
+            },
+            {
+              "name": "sma_sar21.pbo",
+              "value": 65864253
+            },
+            {
+              "name": "sma_sks.pbo",
+              "value": 88352468
+            },
+            {
+              "name": "sma_sound.pbo",
+              "value": 56707639
+            },
+            {
+              "name": "sma_steyr_aug.pbo",
+              "value": 15614502
+            },
+            {
+              "name": "sma_stg.pbo",
+              "value": 49841945
+            },
+            {
+              "name": "sma_tavor.pbo",
+              "value": 38388125
+            },
+            {
+              "name": "sma_vanilla_ammo.pbo",
+              "value": 1322
+            },
+            {
+              "name": "sma_vortex_optics.pbo",
+              "value": 46238706
+            },
+            {
+              "name": "sma_weapons.pbo",
+              "value": 65054401
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@sns",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "gr_medium_utility_helicopters.pbo",
+              "value": 358041125
+            },
+            {
+              "name": "jn_buffel.pbo",
+              "value": 14680782
+            },
+            {
+              "name": "jn_pendek.pbo",
+              "value": 13903098
+            },
+            {
+              "name": "simc_hillwilliam.pbo",
+              "value": 182902678
+            },
+            {
+              "name": "simc_mc_67.pbo",
+              "value": 183715683
+            },
+            {
+              "name": "simc_mc_67_cfg.pbo",
+              "value": 146273
+            },
+            {
+              "name": "simc_mc_68.pbo",
+              "value": 35601752
+            },
+            {
+              "name": "simc_mc_81.pbo",
+              "value": 50641978
+            },
+            {
+              "name": "simc_mc_93.pbo",
+              "value": 47895851
+            },
+            {
+              "name": "simc_nv_67.pbo",
+              "value": 105355481
+            },
+            {
+              "name": "simc_nv_67_cfg.pbo",
+              "value": 22007
+            },
+            {
+              "name": "simc_obj_44.pbo",
+              "value": 18890343
+            },
+            {
+              "name": "simc_svn_67.pbo",
+              "value": 156700662
+            },
+            {
+              "name": "simc_svn_67_cfg.pbo",
+              "value": 49281
+            },
+            {
+              "name": "simc_uaf_65.pbo",
+              "value": 46585588
+            },
+            {
+              "name": "simc_uaf_67.pbo",
+              "value": 370315413
+            },
+            {
+              "name": "simc_uaf_67_cfg.pbo",
+              "value": 223574
+            },
+            {
+              "name": "simc_uaf_67_eden.pbo",
+              "value": 3877482
+            },
+            {
+              "name": "simc_uaf_67_preview.pbo",
+              "value": 15147241
+            },
+            {
+              "name": "simc_uaf_67_ranks.pbo",
+              "value": 4074704
+            },
+            {
+              "name": "simc_uaf_68.pbo",
+              "value": 210935394
+            },
+            {
+              "name": "simc_uaf_68_cfg.pbo",
+              "value": 103752
+            },
+            {
+              "name": "simc_uaf_69.pbo",
+              "value": 256365968
+            },
+            {
+              "name": "simc_uaf_69_unhide.pbo",
+              "value": 552
+            },
+            {
+              "name": "simc_uaf_81.pbo",
+              "value": 233649240
+            },
+            {
+              "name": "simc_uaf_81_preview.pbo",
+              "value": 22183432
+            },
+            {
+              "name": "simc_uaf_88.pbo",
+              "value": 244467330
+            },
+            {
+              "name": "simc_uaf_93.pbo",
+              "value": 212535979
+            },
+            {
+              "name": "sns_dutch.pbo",
+              "value": 174305534
+            },
+            {
+              "name": "sns_dutch_cfg.pbo",
+              "value": 15612
+            },
+            {
+              "name": "sns_french.pbo",
+              "value": 72780074
+            },
+            {
+              "name": "sns_vehicles.pbo",
+              "value": 56598592
+            },
+            {
+              "name": "sns_waffen.pbo",
+              "value": 28438827
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@suursaari",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_suursaariv.pbo",
+              "value": 497708766
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@tembelan",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tembelan.pbo",
+              "value": 315458857
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@tmf",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tmf_acre2.pbo",
+              "value": 366677
+            },
+            {
+              "name": "tmf_adminmenu.pbo",
+              "value": 249401
+            },
+            {
+              "name": "tmf_ai.pbo",
+              "value": 46343
+            },
+            {
+              "name": "tmf_assigngear.pbo",
+              "value": 120818
+            },
+            {
+              "name": "tmf_autotest.pbo",
+              "value": 40006
+            },
+            {
+              "name": "tmf_briefing.pbo",
+              "value": 75927
+            },
+            {
+              "name": "tmf_cascap.pbo",
+              "value": 6597
+            },
+            {
+              "name": "tmf_chat.pbo",
+              "value": 17967
+            },
+            {
+              "name": "tmf_common.pbo",
+              "value": 309713
+            },
+            {
+              "name": "tmf_main.pbo",
+              "value": 28739
+            },
+            {
+              "name": "tmf_marker.pbo",
+              "value": 5031
+            },
+            {
+              "name": "tmf_orbat.pbo",
+              "value": 2319272
+            },
+            {
+              "name": "tmf_patrol.pbo",
+              "value": 10056
+            },
+            {
+              "name": "tmf_respawn.pbo",
+              "value": 70905
+            },
+            {
+              "name": "tmf_safestart.pbo",
+              "value": 19849
+            },
+            {
+              "name": "tmf_spectator.pbo",
+              "value": 111864
+            },
+            {
+              "name": "tmf_teamcolour.pbo",
+              "value": 3410
+            },
+            {
+              "name": "tmf_teleport.pbo",
+              "value": 11469
+            },
+            {
+              "name": "tmf_zeus.pbo",
+              "value": 11173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@torabora",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "torabora.pbo",
+              "value": 302808467
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@usm",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "us_military_faces.pbo",
+              "value": 11454470
+            },
+            {
+              "name": "us_military_units.pbo",
+              "value": 60949701
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@usp",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "usp_gear_body.pbo",
+              "value": 511083039
+            },
+            {
+              "name": "usp_gear_core.pbo",
+              "value": 525148
+            },
+            {
+              "name": "usp_gear_head.pbo",
+              "value": 104602009
+            },
+            {
+              "name": "usp_gear_vest.pbo",
+              "value": 178517871
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@vinjesvingen",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "tem_vinjesvingenc.pbo",
+              "value": 188865398
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@virolahti",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "vt7.pbo",
+              "value": 587818099
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@ws_rhs",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "dino.pbo",
+              "value": 7362610
+            },
+            {
+              "name": "ws_belgium.pbo",
+              "value": 43684137
+            },
+            {
+              "name": "ws_canada.pbo",
+              "value": 12107905
+            },
+            {
+              "name": "ws_denmark.pbo",
+              "value": 37292016
+            },
+            {
+              "name": "ws_finland.pbo",
+              "value": 15446957
+            },
+            {
+              "name": "ws_france.pbo",
+              "value": 12002930
+            },
+            {
+              "name": "ws_gen2.pbo",
+              "value": 26143551
+            },
+            {
+              "name": "ws_generic.pbo",
+              "value": 20586144
+            },
+            {
+              "name": "ws_greece.pbo",
+              "value": 17063445
+            },
+            {
+              "name": "ws_ireland.pbo",
+              "value": 12108798
+            },
+            {
+              "name": "ws_middle-east.pbo",
+              "value": 88123680
+            },
+            {
+              "name": "ws_netherlands.pbo",
+              "value": 7091047
+            },
+            {
+              "name": "ws_norway.pbo",
+              "value": 11365595
+            },
+            {
+              "name": "ws_russia.pbo",
+              "value": 210444767
+            },
+            {
+              "name": "ws_sof.pbo",
+              "value": 46715839
+            },
+            {
+              "name": "ws_uk.pbo",
+              "value": 9222213
+            },
+            {
+              "name": "ws_uniforms.pbo",
+              "value": 55887056
+            },
+            {
+              "name": "ws_uniforms2.pbo",
+              "value": 39339057
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "@zen",
+      "children": [
+        {
+          "name": "addons",
+          "children": [
+            {
+              "name": "zen_ai.pbo",
+              "value": 84950
+            },
+            {
+              "name": "zen_area_markers.pbo",
+              "value": 74871
+            },
+            {
+              "name": "zen_attached_objects.pbo",
+              "value": 17631
+            },
+            {
+              "name": "zen_attributes.pbo",
+              "value": 256340
+            },
+            {
+              "name": "zen_building_markers.pbo",
+              "value": 14907
+            },
+            {
+              "name": "zen_camera.pbo",
+              "value": 17996
+            },
+            {
+              "name": "zen_common.pbo",
+              "value": 559198
+            },
+            {
+              "name": "zen_compat_ace.pbo",
+              "value": 22290
+            },
+            {
+              "name": "zen_compat_advanced_rappelling.pbo",
+              "value": 8624
+            },
+            {
+              "name": "zen_compositions.pbo",
+              "value": 72657
+            },
+            {
+              "name": "zen_context_actions.pbo",
+              "value": 231815
+            },
+            {
+              "name": "zen_context_menu.pbo",
+              "value": 89241
+            },
+            {
+              "name": "zen_cover_map.pbo",
+              "value": 37367
+            },
+            {
+              "name": "zen_custom_modules.pbo",
+              "value": 61608
+            },
+            {
+              "name": "zen_damage.pbo",
+              "value": 41968
+            },
+            {
+              "name": "zen_dialog.pbo",
+              "value": 76630
+            },
+            {
+              "name": "zen_doors.pbo",
+              "value": 27857
+            },
+            {
+              "name": "zen_editor.pbo",
+              "value": 160070
+            },
+            {
+              "name": "zen_editor_previews.pbo",
+              "value": 15933
+            },
+            {
+              "name": "zen_faction_filter.pbo",
+              "value": 14189
+            },
+            {
+              "name": "zen_flashlight.pbo",
+              "value": 8311
+            },
+            {
+              "name": "zen_garage.pbo",
+              "value": 71004
+            },
+            {
+              "name": "zen_inventory.pbo",
+              "value": 98864
+            },
+            {
+              "name": "zen_loadout.pbo",
+              "value": 42511
+            },
+            {
+              "name": "zen_main.pbo",
+              "value": 11532
+            },
+            {
+              "name": "zen_markers_tree.pbo",
+              "value": 41748
+            },
+            {
+              "name": "zen_modules.pbo",
+              "value": 1053867
+            },
+            {
+              "name": "zen_music.pbo",
+              "value": 19641
+            },
+            {
+              "name": "zen_placement.pbo",
+              "value": 25222
+            },
+            {
+              "name": "zen_position_logics.pbo",
+              "value": 38133
+            },
+            {
+              "name": "zen_pylons.pbo",
+              "value": 44055
+            },
+            {
+              "name": "zen_remote_control.pbo",
+              "value": 31186
+            },
+            {
+              "name": "zen_tasks.pbo",
+              "value": 54445
+            },
+            {
+              "name": "zen_visibility.pbo",
+              "value": 16274
+            },
+            {
+              "name": "zen_vision.pbo",
+              "value": 38161
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
