@@ -1,8 +1,9 @@
 class DirectoryListController {
-    constructor(containerId, dataManager, visualization) {
+    constructor(containerId, dataManager, visualization, uiManager) {
         this.container = document.getElementById(containerId);
         this.dataManager = dataManager;
         this.visualization = visualization;
+        this.uiManager = uiManager;
         this.controlsContainer = document.createElement('div');
         this.controlsContainer.className = 'directory-controls';
         this.container.parentNode.insertBefore(this.controlsContainer, this.container);
@@ -17,6 +18,7 @@ class DirectoryListController {
             this.dataManager.resetVisibility();
             this.visualization.update();
             this.buildList();
+            this.uiManager.updateProgressBar();
         });
 
         const invertButton = document.createElement('button');
@@ -26,6 +28,7 @@ class DirectoryListController {
             this.dataManager.invertVisibility();
             this.visualization.update();
             this.buildList();
+            this.uiManager.updateProgressBar();
         });
 
         this.controlsContainer.appendChild(resetButton);
@@ -53,6 +56,7 @@ class DirectoryListController {
         checkbox.addEventListener('change', () => {
             this.dataManager.toggleDirectory(node.name);
             this.visualization.update();
+            this.uiManager.updateProgressBar();
         });
 
         const name = document.createElement('div');

@@ -40,6 +40,10 @@ class CirclePackVisualization extends VisualizationManager {
                     if (window.directoryList) {
                         window.directoryList.buildList();
                     }
+                    // Update progress bar
+                    if (window.uiManager) {
+                        window.uiManager.updateProgressBar();
+                    }
                 } else {
                     this.dataManager.setSelectedNode(d);
                     this.updateSidePanel();

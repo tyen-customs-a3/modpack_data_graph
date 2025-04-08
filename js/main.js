@@ -10,9 +10,10 @@ fetch('file_data.json')
         
         // Create UI manager
         const uiManager = new UIManager(dataManager, visualization);
+        window.uiManager = uiManager;  // Expose to window object
         
         // Create directory list controller
-        const directoryList = new DirectoryListController('directory-list', dataManager, visualization);
+        const directoryList = new DirectoryListController('directory-list', dataManager, visualization, uiManager);
         window.directoryList = directoryList;  // Expose to window object
         
         // Build initial directory list
@@ -20,5 +21,8 @@ fetch('file_data.json')
         
         // Initial update
         visualization.update();
+        
+        // Update progress bar initially
+        uiManager.updateProgressBar();
     })
     .catch(error => console.error("Error loading data:", error)); 

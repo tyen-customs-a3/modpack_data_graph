@@ -4,6 +4,7 @@ class UIManager {
         this.visualization = visualization;
         this.currentVisualization = 'circlePack';
         this.setupEventListeners();
+        this.updateProgressBar();
     }
 
     setupEventListeners() {
@@ -41,22 +42,24 @@ class UIManager {
         const visualization = document.getElementById('visualization');
 
         let isResizing = false;
-        let startX, startWidth;
+        let startX, startWidth, currentHandle;
 
         const startResize = (e) => {
             isResizing = true;
             startX = e.clientX;
-            startWidth = e.target.classList.contains('left') ? 
+            currentHandle = e.target;
+            startWidth = currentHandle.classList.contains('left') ? 
                 directorySidebar.offsetWidth : 
                 sidepanel.offsetWidth;
             document.body.style.cursor = 'col-resize';
+            document.body.style.userSelect = 'none';
         };
 
         const resize = (e) => {
             if (!isResizing) return;
             
             const delta = e.clientX - startX;
-            if (e.target.classList.contains('left')) {
+            if (currentHandle.classList.contains('left')) {
                 const newWidth = Math.max(200, Math.min(400, startWidth + delta));
                 directorySidebar.style.width = `${newWidth}px`;
             } else {
@@ -64,18 +67,27 @@ class UIManager {
                 sidepanel.style.width = `${newWidth}px`;
             }
             
-            this.visualization.update();
+            // Only update the visualization if the middle panel is being resized
+            if (currentHandle.classList.contains('left') && e.clientX > directorySidebar.offsetWidth + 8) {
+                this.visualization.update();
+            } else if (currentHandle.classList.contains('right') && e.clientX < window.innerWidth - sidepanel.offsetWidth - 8) {
+                this.visualization.update();
+            }
         };
 
         const stopResize = () => {
+            if (!isResizing) return;
             isResizing = false;
             document.body.style.cursor = '';
+            document.body.style.userSelect = '';
+            this.visualization.update();
         };
 
         leftHandle.addEventListener('mousedown', startResize);
         rightHandle.addEventListener('mousedown', startResize);
         document.addEventListener('mousemove', resize);
         document.addEventListener('mouseup', stopResize);
+        document.addEventListener('mouseleave', stopResize);
     }
 
     updateLabelButton(showLabels) {
@@ -115,10 +127,27 @@ class UIManager {
         
         // Update the visualization and ensure references are correct
         this.visualization.update();
+        this.updateProgressBar();
         
         // Update directory list references
         if (window.directoryList) {
             window.directoryList.visualization = this.visualization;
         }
+    }
+
+    // Update progress bar based on visible vs total size
+    updateProgressBar() {
+        const visibleSize = this.dataManager.getVisibleSize();
+        const totalSize = this.dataManager.totalSize;
+        const percentage = this.dataManager.getVisiblePercentage();
+        
+        // Format sizes
+        const visibleSizeFormatted = this.dataManager.formatSizeWithUnit(visibleSize);
+        const totalSizeFormatted = this.dataManager.formatSizeWithUnit(totalSize);
+        
+        // Update DOM elements
+        document.getElementById('visible-size').textContent = visibleSizeFormatted.formatted;
+        document.getElementById('total-size').textContent = totalSizeFormatted.formatted;
+        document.getElementById('size-progress').style.width = `${percentage}%`;
     }
 } 

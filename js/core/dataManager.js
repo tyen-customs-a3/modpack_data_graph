@@ -5,12 +5,25 @@ class DataManager {
         this.currentDepth = 1;
         this.showLabels = true;
         this.selectedNode = null;
+        this.totalSize = this.calculateDirectorySize(data);
     }
 
     // Calculate total size of a directory recursively
     calculateDirectorySize(node) {
         if (!node.children) return node.value || 0;
         return node.children.reduce((sum, child) => sum + this.calculateDirectorySize(child), 0);
+    }
+
+    // Get the visible size of data
+    getVisibleSize() {
+        const filteredData = this.getFilteredData();
+        return this.calculateDirectorySize(filteredData);
+    }
+
+    // Get visible percentage (0-100)
+    getVisiblePercentage() {
+        if (this.totalSize === 0) return 0;
+        return (this.getVisibleSize() / this.totalSize) * 100;
     }
 
     // Filter out hidden directories from the data
@@ -73,6 +86,24 @@ class DataManager {
     // Set selected node
     setSelectedNode(node) {
         this.selectedNode = node;
+    }
+
+    // Format size for display with unit
+    formatSizeWithUnit(bytes) {
+        const units = ['B', 'KB', 'MB', 'GB', 'TB'];
+        let size = bytes;
+        let unitIndex = 0;
+        
+        while (size >= 1024 && unitIndex < units.length - 1) {
+            size /= 1024;
+            unitIndex++;
+        }
+        
+        return {
+            value: size.toFixed(1),
+            unit: units[unitIndex],
+            formatted: `${size.toFixed(1)} ${units[unitIndex]}`
+        };
     }
 
     // Format size for display
